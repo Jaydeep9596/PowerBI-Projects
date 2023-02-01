@@ -1,0 +1,14 @@
+ProductID,Sub Category Key,Color,ProductName,RetailPrice,StandardCost
+1,3,Red,Alder,23.95,7.55
+2,2,Blue,Linder,23.95,7.55
+3,2,Green,Magnum,23.95,7.55
+4,1,Red,Quad,43.95,13.75
+5,1,Blue,Black Monk,43.95,13.75
+6,4,Green,Quad,43.95,13.75
+7,1,Red,Bing,26.95,8.25
+8,3,Blue,VanHelen,26.95,8.25
+9,1,Green,Magnum,26.95,8.25
+10,1,Florescent Pink,Carlota,29.95,9.15
+11,4,Florescent Blue,Carlota,29.95,9.15
+7,1,Red,Bing,26.95,8.25
+10,1,Florescent Pink,Carlota,29.95,9.15
