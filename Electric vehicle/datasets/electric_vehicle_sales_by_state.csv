@@ -1,0 +1,2446 @@
+﻿date,state,vehicle_category,electric_vehicles_sold,total_vehicles_sold
+01-Apr-21,Sikkim,2-Wheelers,0,398
+01-Apr-21,Sikkim,4-Wheelers,0,361
+01-May-21,Sikkim,2-Wheelers,0,113
+01-May-21,Sikkim,4-Wheelers,0,98
+01-Jun-21,Sikkim,2-Wheelers,0,229
+01-Jun-21,Sikkim,4-Wheelers,0,244
+01-Jul-21,Sikkim,2-Wheelers,0,458
+01-Jul-21,Sikkim,4-Wheelers,0,452
+01-Aug-21,Sikkim,2-Wheelers,0,489
+01-Aug-21,Sikkim,4-Wheelers,0,408
+01-Sep-21,Sikkim,2-Wheelers,0,540
+01-Sep-21,Sikkim,4-Wheelers,0,355
+01-Oct-21,Sikkim,2-Wheelers,0,455
+01-Oct-21,Sikkim,4-Wheelers,0,345
+01-Nov-21,Sikkim,2-Wheelers,0,478
+01-Nov-21,Sikkim,4-Wheelers,0,351
+01-Dec-21,Sikkim,2-Wheelers,0,454
+01-Dec-21,Sikkim,4-Wheelers,0,394
+01-Jan-22,Sikkim,2-Wheelers,0,400
+01-Jan-22,Sikkim,4-Wheelers,0,270
+01-Feb-22,Sikkim,2-Wheelers,0,384
+01-Feb-22,Sikkim,4-Wheelers,0,371
+01-Mar-22,Sikkim,2-Wheelers,0,460
+01-Mar-22,Sikkim,4-Wheelers,0,390
+01-Apr-22,Sikkim,2-Wheelers,0,455
+01-Apr-22,Sikkim,4-Wheelers,0,380
+01-May-22,Sikkim,2-Wheelers,0,461
+01-May-22,Sikkim,4-Wheelers,0,421
+01-Jun-22,Sikkim,2-Wheelers,0,429
+01-Jun-22,Sikkim,4-Wheelers,0,446
+01-Jul-22,Sikkim,2-Wheelers,0,409
+01-Jul-22,Sikkim,4-Wheelers,0,439
+01-Aug-22,Sikkim,2-Wheelers,0,394
+01-Aug-22,Sikkim,4-Wheelers,0,421
+01-Sep-22,Sikkim,2-Wheelers,0,443
+01-Sep-22,Sikkim,4-Wheelers,0,581
+01-Oct-22,Sikkim,2-Wheelers,0,371
+01-Oct-22,Sikkim,4-Wheelers,0,340
+01-Nov-22,Sikkim,2-Wheelers,0,431
+01-Nov-22,Sikkim,4-Wheelers,0,411
+01-Dec-22,Sikkim,2-Wheelers,0,274
+01-Dec-22,Sikkim,4-Wheelers,0,288
+01-Jan-23,Sikkim,2-Wheelers,0,470
+01-Jan-23,Sikkim,4-Wheelers,0,420
+01-Feb-23,Sikkim,2-Wheelers,0,324
+01-Feb-23,Sikkim,4-Wheelers,0,364
+01-Mar-23,Sikkim,2-Wheelers,0,454
+01-Mar-23,Sikkim,4-Wheelers,0,505
+01-Apr-23,Sikkim,2-Wheelers,0,465
+01-Apr-23,Sikkim,4-Wheelers,0,439
+01-May-23,Sikkim,2-Wheelers,0,507
+01-May-23,Sikkim,4-Wheelers,0,448
+01-Jun-23,Sikkim,2-Wheelers,0,517
+01-Jun-23,Sikkim,4-Wheelers,0,457
+01-Jul-23,Sikkim,2-Wheelers,0,423
+01-Jul-23,Sikkim,4-Wheelers,0,371
+01-Aug-23,Sikkim,2-Wheelers,0,465
+01-Aug-23,Sikkim,4-Wheelers,0,460
+01-Sep-23,Sikkim,2-Wheelers,0,546
+01-Sep-23,Sikkim,4-Wheelers,0,509
+01-Oct-23,Sikkim,2-Wheelers,0,398
+01-Oct-23,Sikkim,4-Wheelers,0,389
+01-Nov-23,Sikkim,2-Wheelers,0,470
+01-Nov-23,Sikkim,4-Wheelers,0,403
+01-Dec-23,Sikkim,2-Wheelers,0,365
+01-Dec-23,Sikkim,4-Wheelers,0,318
+01-Jan-24,Sikkim,2-Wheelers,0,509
+01-Jan-24,Sikkim,4-Wheelers,0,422
+01-Feb-24,Sikkim,2-Wheelers,0,408
+01-Feb-24,Sikkim,4-Wheelers,0,375
+01-Mar-24,Sikkim,2-Wheelers,0,399
+01-Mar-24,Sikkim,4-Wheelers,0,455
+01-Apr-21,Andaman & Nicobar Island,2-Wheelers,0,515
+01-Apr-21,Arunachal Pradesh,2-Wheelers,0,1256
+01-Apr-21,Arunachal Pradesh,4-Wheelers,0,724
+01-Apr-21,Assam,4-Wheelers,0,6576
+01-Apr-21,Chhattisgarh,4-Wheelers,0,1563
+01-Apr-21,DNH and DD,4-Wheelers,0,278
+01-Apr-21,Jammu and Kashmir,4-Wheelers,0,5107
+01-Apr-21,Ladakh,2-Wheelers,0,2
+01-Apr-21,Ladakh,4-Wheelers,0,20
+01-Apr-21,Manipur,4-Wheelers,0,808
+01-Apr-21,Meghalaya,2-Wheelers,0,1189
+01-Apr-21,Mizoram,2-Wheelers,0,1507
+01-Apr-21,Mizoram,4-Wheelers,0,281
+01-Apr-21,Nagaland,2-Wheelers,0,561
+01-Apr-21,Nagaland,4-Wheelers,0,747
+01-Apr-21,Puducherry,4-Wheelers,0,655
+01-Apr-21,Tripura,2-Wheelers,0,2906
+01-Apr-21,Tripura,4-Wheelers,0,289
+01-May-21,Andaman & Nicobar Island,2-Wheelers,0,4
+01-May-21,Andaman & Nicobar Island,4-Wheelers,0,1
+01-May-21,Arunachal Pradesh,2-Wheelers,0,552
+01-May-21,Arunachal Pradesh,4-Wheelers,0,302
+01-May-21,Assam,2-Wheelers,0,14723
+01-May-21,Assam,4-Wheelers,0,3295
+01-May-21,Bihar,4-Wheelers,0,2249
+01-May-21,Chandigarh,2-Wheelers,0,411
+01-May-21,Chhattisgarh,4-Wheelers,0,1387
+01-May-21,DNH and DD,2-Wheelers,0,452
+01-May-21,DNH and DD,4-Wheelers,0,202
+01-May-21,Delhi,2-Wheelers,0,22
+01-May-21,Delhi,4-Wheelers,0,21
+01-May-21,Jammu and Kashmir,4-Wheelers,0,2372
+01-May-21,Ladakh,2-Wheelers,0,11
+01-May-21,Ladakh,4-Wheelers,0,70
+01-May-21,Madhya Pradesh,4-Wheelers,0,195
+01-May-21,Manipur,2-Wheelers,0,288
+01-May-21,Manipur,4-Wheelers,0,9
+01-May-21,Meghalaya,2-Wheelers,0,332
+01-May-21,Mizoram,2-Wheelers,0,15
+01-May-21,Mizoram,4-Wheelers,0,4
+01-May-21,Nagaland,2-Wheelers,0,125
+01-May-21,Nagaland,4-Wheelers,0,126
+01-May-21,Odisha,4-Wheelers,0,722
+01-May-21,Punjab,4-Wheelers,0,5202
+01-May-21,Tripura,2-Wheelers,0,2063
+01-May-21,Tripura,4-Wheelers,0,192
+01-May-21,Uttarakhand,4-Wheelers,0,1145
+01-Jun-21,Andaman & Nicobar Island,2-Wheelers,0,2
+01-Jun-21,Arunachal Pradesh,2-Wheelers,0,727
+01-Jun-21,Arunachal Pradesh,4-Wheelers,0,565
+01-Jun-21,Ladakh,2-Wheelers,0,3
+01-Jun-21,Ladakh,4-Wheelers,0,112
+01-Jun-21,Manipur,2-Wheelers,0,89
+01-Jun-21,Manipur,4-Wheelers,0,18
+01-Jun-21,Meghalaya,2-Wheelers,0,354
+01-Jun-21,Meghalaya,4-Wheelers,0,246
+01-Jun-21,Mizoram,2-Wheelers,0,648
+01-Jun-21,Mizoram,4-Wheelers,0,298
+01-Jun-21,Nagaland,2-Wheelers,0,42
+01-Jun-21,Nagaland,4-Wheelers,0,54
+01-Jun-21,Puducherry,4-Wheelers,0,445
+01-Jun-21,Tripura,4-Wheelers,0,185
+01-Jul-21,Andaman & Nicobar Island,2-Wheelers,0,467
+01-Jul-21,Arunachal Pradesh,2-Wheelers,0,994
+01-Jul-21,Arunachal Pradesh,4-Wheelers,0,661
+01-Jul-21,Assam,4-Wheelers,0,4988
+01-Jul-21,DNH and DD,4-Wheelers,0,276
+01-Jul-21,Ladakh,2-Wheelers,0,51
+01-Jul-21,Ladakh,4-Wheelers,0,552
+01-Jul-21,Manipur,2-Wheelers,0,474
+01-Jul-21,Manipur,4-Wheelers,0,68
+01-Jul-21,Meghalaya,2-Wheelers,0,726
+01-Jul-21,Mizoram,2-Wheelers,0,1096
+01-Jul-21,Mizoram,4-Wheelers,0,219
+01-Jul-21,Nagaland,2-Wheelers,0,583
+01-Jul-21,Nagaland,4-Wheelers,0,1039
+01-Jul-21,Puducherry,4-Wheelers,0,866
+01-Jul-21,Tripura,2-Wheelers,0,2211
+01-Jul-21,Tripura,4-Wheelers,0,352
+01-Aug-21,Andaman & Nicobar Island,2-Wheelers,0,406
+01-Aug-21,Arunachal Pradesh,2-Wheelers,0,1126
+01-Aug-21,Arunachal Pradesh,4-Wheelers,0,758
+01-Aug-21,DNH and DD,4-Wheelers,0,321
+01-Aug-21,Himachal Pradesh,4-Wheelers,0,3641
+01-Aug-21,Jammu and Kashmir,4-Wheelers,0,5430
+01-Aug-21,Ladakh,2-Wheelers,0,30
+01-Aug-21,Ladakh,4-Wheelers,0,459
+01-Aug-21,Manipur,2-Wheelers,0,1016
+01-Aug-21,Manipur,4-Wheelers,0,561
+01-Aug-21,Meghalaya,2-Wheelers,0,1041
+01-Aug-21,Meghalaya,4-Wheelers,0,826
+01-Aug-21,Mizoram,2-Wheelers,0,1057
+01-Aug-21,Mizoram,4-Wheelers,0,240
+01-Aug-21,Nagaland,2-Wheelers,0,577
+01-Aug-21,Nagaland,4-Wheelers,0,763
+01-Aug-21,Tripura,2-Wheelers,0,2462
+01-Aug-21,Tripura,4-Wheelers,0,462
+01-Sep-21,Andaman & Nicobar Island,2-Wheelers,0,329
+01-Sep-21,Andaman & Nicobar Island,4-Wheelers,0,87
+01-Sep-21,Arunachal Pradesh,2-Wheelers,0,1260
+01-Sep-21,Arunachal Pradesh,4-Wheelers,0,637
+01-Sep-21,Assam,4-Wheelers,0,6036
+01-Sep-21,DNH and DD,4-Wheelers,0,348
+01-Sep-21,Ladakh,2-Wheelers,0,26
+01-Sep-21,Ladakh,4-Wheelers,0,444
+01-Sep-21,Manipur,2-Wheelers,0,3492
+01-Sep-21,Manipur,4-Wheelers,0,1202
+01-Sep-21,Meghalaya,2-Wheelers,0,1396
+01-Sep-21,Meghalaya,4-Wheelers,0,905
+01-Sep-21,Mizoram,2-Wheelers,0,1465
+01-Sep-21,Mizoram,4-Wheelers,0,264
+01-Sep-21,Nagaland,4-Wheelers,0,681
+01-Sep-21,Tripura,2-Wheelers,0,2736
+01-Sep-21,Tripura,4-Wheelers,0,403
+01-Oct-21,Andaman & Nicobar Island,2-Wheelers,0,360
+01-Oct-21,Arunachal Pradesh,2-Wheelers,0,1109
+01-Oct-21,Arunachal Pradesh,4-Wheelers,0,570
+01-Oct-21,Assam,4-Wheelers,0,5877
+01-Oct-21,Ladakh,4-Wheelers,0,289
+01-Oct-21,Manipur,4-Wheelers,0,916
+01-Oct-21,Meghalaya,2-Wheelers,0,1414
+01-Oct-21,Meghalaya,4-Wheelers,0,722
+01-Oct-21,Mizoram,2-Wheelers,0,1886
+01-Oct-21,Mizoram,4-Wheelers,0,283
+01-Oct-21,Nagaland,2-Wheelers,0,650
+01-Oct-21,Nagaland,4-Wheelers,0,567
+01-Oct-21,Puducherry,4-Wheelers,0,609
+01-Oct-21,Tripura,2-Wheelers,0,3015
+01-Oct-21,Tripura,4-Wheelers,0,366
+01-Nov-21,Andaman & Nicobar Island,2-Wheelers,0,413
+01-Nov-21,Andaman & Nicobar Island,4-Wheelers,0,125
+01-Nov-21,Arunachal Pradesh,2-Wheelers,0,1262
+01-Nov-21,Arunachal Pradesh,4-Wheelers,0,646
+01-Nov-21,Assam,4-Wheelers,0,5618
+01-Nov-21,DNH and DD,4-Wheelers,0,330
+01-Nov-21,Himachal Pradesh,4-Wheelers,0,4496
+01-Nov-21,Jammu and Kashmir,4-Wheelers,0,4709
+01-Nov-21,Ladakh,2-Wheelers,0,28
+01-Nov-21,Ladakh,4-Wheelers,0,287
+01-Nov-21,Manipur,4-Wheelers,0,875
+01-Nov-21,Meghalaya,2-Wheelers,0,1442
+01-Nov-21,Meghalaya,4-Wheelers,0,806
+01-Nov-21,Mizoram,2-Wheelers,0,1820
+01-Nov-21,Mizoram,4-Wheelers,0,328
+01-Nov-21,Nagaland,2-Wheelers,0,592
+01-Nov-21,Nagaland,4-Wheelers,0,692
+01-Nov-21,Tripura,2-Wheelers,0,3843
+01-Nov-21,Tripura,4-Wheelers,0,326
+01-Dec-21,Andaman & Nicobar Island,2-Wheelers,0,376
+01-Dec-21,Arunachal Pradesh,2-Wheelers,0,1036
+01-Dec-21,Arunachal Pradesh,4-Wheelers,0,709
+01-Dec-21,Jammu and Kashmir,4-Wheelers,0,5306
+01-Dec-21,Ladakh,2-Wheelers,0,15
+01-Dec-21,Ladakh,4-Wheelers,0,167
+01-Dec-21,Manipur,4-Wheelers,0,849
+01-Dec-21,Meghalaya,2-Wheelers,0,1101
+01-Dec-21,Meghalaya,4-Wheelers,0,888
+01-Dec-21,Mizoram,2-Wheelers,0,1740
+01-Dec-21,Mizoram,4-Wheelers,0,376
+01-Dec-21,Nagaland,2-Wheelers,0,353
+01-Dec-21,Nagaland,4-Wheelers,0,540
+01-Dec-21,Tripura,4-Wheelers,0,352
+01-Jan-22,Andaman & Nicobar Island,2-Wheelers,0,336
+01-Jan-22,Andaman & Nicobar Island,4-Wheelers,0,90
+01-Jan-22,Arunachal Pradesh,2-Wheelers,0,950
+01-Jan-22,Arunachal Pradesh,4-Wheelers,0,766
+01-Jan-22,Assam,4-Wheelers,0,5550
+01-Jan-22,DNH and DD,4-Wheelers,0,358
+01-Jan-22,Jammu and Kashmir,4-Wheelers,0,3963
+01-Jan-22,Ladakh,4-Wheelers,0,150
+01-Jan-22,Manipur,4-Wheelers,0,687
+01-Jan-22,Meghalaya,2-Wheelers,0,1112
+01-Jan-22,Meghalaya,4-Wheelers,0,1063
+01-Jan-22,Mizoram,2-Wheelers,0,1387
+01-Jan-22,Mizoram,4-Wheelers,0,311
+01-Jan-22,Nagaland,2-Wheelers,0,410
+01-Jan-22,Nagaland,4-Wheelers,0,722
+01-Jan-22,Puducherry,4-Wheelers,0,758
+01-Jan-22,Tripura,4-Wheelers,0,394
+01-Feb-22,Andaman & Nicobar Island,2-Wheelers,0,388
+01-Feb-22,Andaman & Nicobar Island,4-Wheelers,0,112
+01-Feb-22,Arunachal Pradesh,2-Wheelers,0,858
+01-Feb-22,Arunachal Pradesh,4-Wheelers,0,671
+01-Feb-22,Ladakh,2-Wheelers,0,15
+01-Feb-22,Ladakh,4-Wheelers,0,44
+01-Feb-22,Manipur,4-Wheelers,0,834
+01-Feb-22,Meghalaya,2-Wheelers,0,1145
+01-Feb-22,Mizoram,2-Wheelers,0,1599
+01-Feb-22,Mizoram,4-Wheelers,0,354
+01-Feb-22,Nagaland,2-Wheelers,0,504
+01-Feb-22,Nagaland,4-Wheelers,0,773
+01-Feb-22,Puducherry,4-Wheelers,0,622
+01-Feb-22,Tripura,4-Wheelers,0,340
+01-Mar-22,Andaman & Nicobar Island,2-Wheelers,0,383
+01-Mar-22,Arunachal Pradesh,2-Wheelers,0,1111
+01-Mar-22,Arunachal Pradesh,4-Wheelers,0,679
+01-Mar-22,Ladakh,2-Wheelers,0,49
+01-Mar-22,Ladakh,4-Wheelers,0,49
+01-Mar-22,Manipur,4-Wheelers,0,717
+01-Mar-22,Meghalaya,2-Wheelers,0,1687
+01-Mar-22,Meghalaya,4-Wheelers,0,1104
+01-Mar-22,Mizoram,2-Wheelers,0,1848
+01-Mar-22,Mizoram,4-Wheelers,0,413
+01-Mar-22,Nagaland,2-Wheelers,0,541
+01-Mar-22,Nagaland,4-Wheelers,0,632
+01-Mar-22,Tripura,4-Wheelers,0,484
+01-Apr-22,Andaman & Nicobar Island,2-Wheelers,0,407
+01-Apr-22,Arunachal Pradesh,2-Wheelers,0,1063
+01-Apr-22,Arunachal Pradesh,4-Wheelers,0,824
+01-Apr-22,Ladakh,2-Wheelers,0,351
+01-Apr-22,Ladakh,4-Wheelers,0,105
+01-Apr-22,Mizoram,2-Wheelers,0,1530
+01-Apr-22,Mizoram,4-Wheelers,0,323
+01-Apr-22,Nagaland,4-Wheelers,0,723
+01-Apr-22,Tripura,4-Wheelers,0,448
+01-May-22,Andaman & Nicobar Island,2-Wheelers,0,358
+01-May-22,Andaman & Nicobar Island,4-Wheelers,0,110
+01-May-22,Arunachal Pradesh,2-Wheelers,0,1241
+01-May-22,Arunachal Pradesh,4-Wheelers,0,965
+01-May-22,Ladakh,2-Wheelers,0,419
+01-May-22,Ladakh,4-Wheelers,0,322
+01-May-22,Manipur,4-Wheelers,0,644
+01-May-22,Meghalaya,2-Wheelers,0,1780
+01-May-22,Mizoram,4-Wheelers,0,397
+01-May-22,Nagaland,4-Wheelers,0,630
+01-May-22,Tripura,4-Wheelers,0,359
+01-Jun-22,Andaman & Nicobar Island,2-Wheelers,0,423
+01-Jun-22,Andaman & Nicobar Island,4-Wheelers,0,115
+01-Jun-22,Arunachal Pradesh,2-Wheelers,0,1253
+01-Jun-22,Arunachal Pradesh,4-Wheelers,0,1021
+01-Jun-22,Ladakh,4-Wheelers,0,310
+01-Jun-22,Manipur,4-Wheelers,0,1029
+01-Jun-22,Mizoram,4-Wheelers,0,373
+01-Jun-22,Nagaland,2-Wheelers,0,594
+01-Jun-22,Nagaland,4-Wheelers,0,735
+01-Jun-22,Tripura,4-Wheelers,0,354
+01-Jul-22,Andaman & Nicobar Island,2-Wheelers,0,385
+01-Jul-22,Andaman & Nicobar Island,4-Wheelers,0,127
+01-Jul-22,Arunachal Pradesh,2-Wheelers,0,1181
+01-Jul-22,DNH and DD,4-Wheelers,0,344
+01-Jul-22,Ladakh,2-Wheelers,0,314
+01-Jul-22,Manipur,4-Wheelers,0,775
+01-Jul-22,Mizoram,4-Wheelers,0,319
+01-Jul-22,Nagaland,2-Wheelers,0,505
+01-Jul-22,Nagaland,4-Wheelers,0,591
+01-Jul-22,Tripura,4-Wheelers,0,402
+01-Aug-22,Andaman & Nicobar Island,2-Wheelers,0,398
+01-Aug-22,Andaman & Nicobar Island,4-Wheelers,0,154
+01-Aug-22,Arunachal Pradesh,2-Wheelers,0,1244
+01-Aug-22,Arunachal Pradesh,4-Wheelers,0,866
+01-Aug-22,Ladakh,2-Wheelers,0,222
+01-Aug-22,Manipur,4-Wheelers,0,623
+01-Aug-22,Meghalaya,4-Wheelers,0,1120
+01-Aug-22,Mizoram,4-Wheelers,0,408
+01-Aug-22,Nagaland,2-Wheelers,0,554
+01-Aug-22,Nagaland,4-Wheelers,0,844
+01-Aug-22,Tripura,4-Wheelers,0,403
+01-Sep-22,Andaman & Nicobar Island,2-Wheelers,0,484
+01-Sep-22,Andaman & Nicobar Island,4-Wheelers,0,128
+01-Sep-22,Arunachal Pradesh,2-Wheelers,0,1068
+01-Sep-22,Arunachal Pradesh,4-Wheelers,0,931
+01-Sep-22,Ladakh,2-Wheelers,0,30
+01-Sep-22,Ladakh,4-Wheelers,0,189
+01-Sep-22,Manipur,4-Wheelers,0,820
+01-Sep-22,Mizoram,4-Wheelers,0,379
+01-Sep-22,Nagaland,2-Wheelers,0,589
+01-Sep-22,Nagaland,4-Wheelers,0,780
+01-Sep-22,Tripura,4-Wheelers,0,465
+01-Oct-22,Andaman & Nicobar Island,2-Wheelers,0,409
+01-Oct-22,Andaman & Nicobar Island,4-Wheelers,0,144
+01-Oct-22,Arunachal Pradesh,2-Wheelers,0,850
+01-Oct-22,Arunachal Pradesh,4-Wheelers,0,741
+01-Oct-22,Ladakh,2-Wheelers,0,27
+01-Oct-22,Ladakh,4-Wheelers,0,264
+01-Oct-22,Manipur,4-Wheelers,0,596
+01-Oct-22,Mizoram,4-Wheelers,0,362
+01-Oct-22,Nagaland,2-Wheelers,0,374
+01-Oct-22,Nagaland,4-Wheelers,0,690
+01-Oct-22,Tripura,4-Wheelers,0,416
+01-Nov-22,Arunachal Pradesh,2-Wheelers,0,1251
+01-Nov-22,Arunachal Pradesh,4-Wheelers,0,971
+01-Nov-22,Jammu and Kashmir,4-Wheelers,0,4102
+01-Nov-22,Ladakh,2-Wheelers,0,23
+01-Nov-22,Ladakh,4-Wheelers,0,244
+01-Nov-22,Manipur,4-Wheelers,0,1569
+01-Nov-22,Meghalaya,4-Wheelers,0,1158
+01-Nov-22,Mizoram,4-Wheelers,0,378
+01-Nov-22,Nagaland,2-Wheelers,0,447
+01-Nov-22,Nagaland,4-Wheelers,0,724
+01-Nov-22,Punjab,4-Wheelers,0,8875
+01-Nov-22,Tripura,4-Wheelers,0,410
+01-Dec-22,Arunachal Pradesh,4-Wheelers,0,865
+01-Dec-22,Ladakh,2-Wheelers,0,16
+01-Dec-22,Ladakh,4-Wheelers,0,144
+01-Dec-22,Manipur,4-Wheelers,0,1478
+01-Dec-22,Meghalaya,4-Wheelers,0,1150
+01-Dec-22,Mizoram,4-Wheelers,0,445
+01-Dec-22,Nagaland,2-Wheelers,0,369
+01-Dec-22,Nagaland,4-Wheelers,0,490
+01-Dec-22,Tripura,4-Wheelers,0,385
+01-Jan-23,Andaman & Nicobar Island,2-Wheelers,0,373
+01-Jan-23,Andaman & Nicobar Island,4-Wheelers,0,153
+01-Jan-23,Arunachal Pradesh,2-Wheelers,0,718
+01-Jan-23,Arunachal Pradesh,4-Wheelers,0,966
+01-Jan-23,Ladakh,4-Wheelers,0,92
+01-Jan-23,Mizoram,4-Wheelers,0,476
+01-Jan-23,Nagaland,2-Wheelers,0,432
+01-Jan-23,Nagaland,4-Wheelers,0,545
+01-Jan-23,Punjab,4-Wheelers,0,11608
+01-Jan-23,Tripura,4-Wheelers,0,399
+01-Feb-23,Andaman & Nicobar Island,2-Wheelers,0,346
+01-Feb-23,Andaman & Nicobar Island,4-Wheelers,0,148
+01-Feb-23,Arunachal Pradesh,2-Wheelers,0,816
+01-Feb-23,Arunachal Pradesh,4-Wheelers,0,840
+01-Feb-23,Ladakh,2-Wheelers,0,5
+01-Feb-23,Ladakh,4-Wheelers,0,49
+01-Feb-23,Meghalaya,4-Wheelers,0,1002
+01-Feb-23,Mizoram,4-Wheelers,0,337
+01-Feb-23,Nagaland,2-Wheelers,0,375
+01-Feb-23,Nagaland,4-Wheelers,0,806
+01-Feb-23,Tripura,4-Wheelers,0,328
+01-Mar-23,Arunachal Pradesh,2-Wheelers,0,1131
+01-Mar-23,Arunachal Pradesh,4-Wheelers,0,1048
+01-Mar-23,Ladakh,2-Wheelers,0,30
+01-Mar-23,Ladakh,4-Wheelers,0,59
+01-Mar-23,Manipur,4-Wheelers,0,320
+01-Mar-23,Meghalaya,4-Wheelers,0,1369
+01-Mar-23,Mizoram,4-Wheelers,0,433
+01-Mar-23,Nagaland,2-Wheelers,0,693
+01-Mar-23,Nagaland,4-Wheelers,0,820
+01-Apr-23,Andaman & Nicobar Island,2-Wheelers,0,325
+01-Apr-23,Arunachal Pradesh,2-Wheelers,0,971
+01-Apr-23,Ladakh,2-Wheelers,0,43
+01-Apr-23,Ladakh,4-Wheelers,0,219
+01-Apr-23,Manipur,4-Wheelers,0,942
+01-Apr-23,Mizoram,4-Wheelers,0,336
+01-Apr-23,Nagaland,2-Wheelers,0,560
+01-May-23,Andaman & Nicobar Island,2-Wheelers,0,436
+01-May-23,Andaman & Nicobar Island,4-Wheelers,0,150
+01-May-23,Arunachal Pradesh,4-Wheelers,0,1132
+01-May-23,Ladakh,4-Wheelers,0,364
+01-May-23,Mizoram,4-Wheelers,0,382
+01-May-23,Nagaland,2-Wheelers,0,610
+01-May-23,Nagaland,4-Wheelers,0,796
+01-Jun-23,Andaman & Nicobar Island,2-Wheelers,0,373
+01-Jun-23,Arunachal Pradesh,2-Wheelers,0,1141
+01-Jun-23,Arunachal Pradesh,4-Wheelers,0,1089
+01-Jun-23,Ladakh,4-Wheelers,0,304
+01-Jun-23,Manipur,4-Wheelers,0,220
+01-Jun-23,Mizoram,4-Wheelers,0,383
+01-Jun-23,Nagaland,2-Wheelers,0,650
+01-Jun-23,Nagaland,4-Wheelers,0,620
+01-Jul-23,Andaman & Nicobar Island,2-Wheelers,0,424
+01-Jul-23,Arunachal Pradesh,2-Wheelers,0,1315
+01-Jul-23,Ladakh,4-Wheelers,0,301
+01-Jul-23,Mizoram,4-Wheelers,0,439
+01-Aug-23,Andaman & Nicobar Island,2-Wheelers,0,477
+01-Aug-23,Arunachal Pradesh,2-Wheelers,0,1292
+01-Aug-23,Ladakh,2-Wheelers,0,63
+01-Aug-23,Ladakh,4-Wheelers,0,278
+01-Aug-23,Mizoram,4-Wheelers,0,410
+01-Aug-23,Nagaland,2-Wheelers,0,592
+01-Aug-23,Nagaland,4-Wheelers,0,760
+01-Sep-23,Andaman & Nicobar Island,2-Wheelers,0,379
+01-Sep-23,Arunachal Pradesh,2-Wheelers,0,1274
+01-Sep-23,Ladakh,2-Wheelers,0,40
+01-Sep-23,Ladakh,4-Wheelers,0,211
+01-Sep-23,Manipur,2-Wheelers,0,426
+01-Sep-23,Manipur,4-Wheelers,0,239
+01-Sep-23,Mizoram,4-Wheelers,0,415
+01-Sep-23,Nagaland,4-Wheelers,0,654
+01-Oct-23,Arunachal Pradesh,2-Wheelers,0,1281
+01-Oct-23,Ladakh,2-Wheelers,0,33
+01-Oct-23,Ladakh,4-Wheelers,0,187
+01-Oct-23,Mizoram,4-Wheelers,0,453
+01-Oct-23,Nagaland,2-Wheelers,0,471
+01-Oct-23,Nagaland,4-Wheelers,0,743
+01-Nov-23,Arunachal Pradesh,2-Wheelers,0,1458
+01-Nov-23,Ladakh,2-Wheelers,0,39
+01-Nov-23,Ladakh,4-Wheelers,0,166
+01-Nov-23,Mizoram,4-Wheelers,0,531
+01-Dec-23,Ladakh,2-Wheelers,0,7
+01-Dec-23,Ladakh,4-Wheelers,0,144
+01-Dec-23,Mizoram,4-Wheelers,0,568
+01-Dec-23,Nagaland,2-Wheelers,0,421
+01-Dec-23,Nagaland,4-Wheelers,0,562
+01-Jan-24,Arunachal Pradesh,2-Wheelers,0,995
+01-Jan-24,Nagaland,2-Wheelers,0,505
+01-Jan-24,Ladakh,4-Wheelers,0,141
+01-Jan-24,Andaman & Nicobar,4-Wheelers,0,177
+01-Jan-24,Nagaland,4-Wheelers,0,877
+01-Feb-24,Arunachal Pradesh,2-Wheelers,0,1117
+01-Feb-24,Nagaland,2-Wheelers,0,763
+01-Feb-24,Ladakh,2-Wheelers,0,4
+01-Feb-24,Mizoram,4-Wheelers,0,494
+01-Feb-24,Ladakh,4-Wheelers,0,47
+01-Mar-24,Arunachal Pradesh,2-Wheelers,0,1259
+01-Mar-24,Ladakh,2-Wheelers,0,11
+01-Mar-24,Mizoram,4-Wheelers,0,463
+01-Mar-24,Nagaland,4-Wheelers,0,1336
+01-Mar-24,Ladakh,4-Wheelers,0,81
+01-Apr-21,DNH and DD,2-Wheelers,1,657
+01-Apr-21,Himachal Pradesh,4-Wheelers,1,3544
+01-Apr-21,Meghalaya,4-Wheelers,1,930
+01-May-21,Chandigarh,4-Wheelers,1,413
+01-May-21,Haryana,4-Wheelers,1,4373
+01-May-21,Himachal Pradesh,4-Wheelers,1,1503
+01-May-21,Jharkhand,4-Wheelers,1,2290
+01-May-21,Madhya Pradesh,2-Wheelers,1,6302
+01-May-21,Meghalaya,4-Wheelers,1,88
+01-Jun-21,Assam,4-Wheelers,1,3842
+01-Jun-21,DNH and DD,4-Wheelers,1,234
+01-Jun-21,Himachal Pradesh,4-Wheelers,1,3193
+01-Jun-21,Jammu and Kashmir,4-Wheelers,1,4469
+01-Jun-21,Tripura,2-Wheelers,1,1523
+01-Jul-21,Jammu and Kashmir,4-Wheelers,1,5336
+01-Jul-21,Meghalaya,4-Wheelers,1,759
+01-Aug-21,Andaman & Nicobar Island,4-Wheelers,1,110
+01-Aug-21,Puducherry,4-Wheelers,1,837
+01-Sep-21,DNH and DD,2-Wheelers,1,666
+01-Sep-21,Himachal Pradesh,4-Wheelers,1,3379
+01-Sep-21,Jammu and Kashmir,4-Wheelers,1,3773
+01-Sep-21,Nagaland,2-Wheelers,1,578
+01-Oct-21,Andaman & Nicobar Island,4-Wheelers,1,70
+01-Oct-21,DNH and DD,2-Wheelers,1,628
+01-Oct-21,DNH and DD,4-Wheelers,1,333
+01-Oct-21,Himachal Pradesh,4-Wheelers,1,3201
+01-Nov-21,DNH and DD,2-Wheelers,1,938
+01-Nov-21,Puducherry,4-Wheelers,1,532
+01-Dec-21,Andaman & Nicobar Island,4-Wheelers,1,122
+01-Dec-21,DNH and DD,4-Wheelers,1,336
+01-Dec-21,Himachal Pradesh,4-Wheelers,1,4105
+01-Dec-21,Tripura,2-Wheelers,1,3579
+01-Feb-22,DNH and DD,4-Wheelers,1,354
+01-Feb-22,Meghalaya,4-Wheelers,1,917
+01-Mar-22,DNH and DD,4-Wheelers,1,355
+01-Apr-22,Andaman & Nicobar Island,4-Wheelers,1,147
+01-Apr-22,DNH and DD,4-Wheelers,1,431
+01-Apr-22,Manipur,2-Wheelers,1,1246
+01-Apr-22,Manipur,4-Wheelers,1,813
+01-Apr-22,Meghalaya,4-Wheelers,1,860
+01-May-22,DNH and DD,4-Wheelers,1,374
+01-May-22,Mizoram,2-Wheelers,1,1638
+01-May-22,Nagaland,2-Wheelers,1,514
+01-Jun-22,DNH and DD,2-Wheelers,1,767
+01-Jun-22,Meghalaya,4-Wheelers,1,1087
+01-Jul-22,Arunachal Pradesh,4-Wheelers,1,947
+01-Jul-22,Ladakh,4-Wheelers,1,285
+01-Jul-22,Mizoram,2-Wheelers,1,1427
+01-Aug-22,DNH and DD,4-Wheelers,1,303
+01-Sep-22,DNH and DD,4-Wheelers,1,390
+01-Sep-22,Manipur,2-Wheelers,1,2473
+01-Sep-22,Meghalaya,2-Wheelers,1,1719
+01-Oct-22,Meghalaya,4-Wheelers,1,1188
+01-Nov-22,Andaman & Nicobar Island,4-Wheelers,1,159
+01-Dec-22,Arunachal Pradesh,2-Wheelers,1,925
+01-Dec-22,Meghalaya,2-Wheelers,1,1180
+01-Dec-22,Punjab,4-Wheelers,1,13085
+01-Jan-23,DNH and DD,4-Wheelers,1,360
+01-Jan-23,Ladakh,2-Wheelers,1,20
+01-Jan-23,Meghalaya,4-Wheelers,1,1271
+01-Mar-23,Andaman & Nicobar Island,2-Wheelers,1,373
+01-Mar-23,Andaman & Nicobar Island,4-Wheelers,1,162
+01-Mar-23,Meghalaya,2-Wheelers,1,1907
+01-Apr-23,Andaman & Nicobar Island,4-Wheelers,1,122
+01-Apr-23,Arunachal Pradesh,4-Wheelers,1,892
+01-Apr-23,DNH and DD,4-Wheelers,1,407
+01-Apr-23,Nagaland,4-Wheelers,1,687
+01-Apr-23,Tripura,4-Wheelers,1,299
+01-May-23,Arunachal Pradesh,2-Wheelers,1,1193
+01-Jun-23,Andaman & Nicobar Island,4-Wheelers,1,136
+01-Jun-23,DNH and DD,4-Wheelers,1,370
+01-Jun-23,Meghalaya,2-Wheelers,1,1969
+01-Jul-23,Ladakh,2-Wheelers,1,117
+01-Jul-23,Nagaland,2-Wheelers,1,599
+01-Jul-23,Nagaland,4-Wheelers,1,739
+01-Aug-23,DNH and DD,4-Wheelers,1,357
+01-Sep-23,Andaman & Nicobar Island,4-Wheelers,1,148
+01-Sep-23,Nagaland,2-Wheelers,1,531
+01-Oct-23,Andaman & Nicobar Island,2-Wheelers,1,404
+01-Oct-23,Andaman & Nicobar Island,4-Wheelers,1,191
+01-Oct-23,Meghalaya,2-Wheelers,1,1776
+01-Oct-23,Meghalaya,4-Wheelers,1,1354
+01-Nov-23,Andaman & Nicobar Island,4-Wheelers,1,170
+01-Nov-23,Nagaland,2-Wheelers,1,634
+01-Nov-23,Nagaland,4-Wheelers,1,860
+01-Dec-23,Meghalaya,2-Wheelers,1,1518
+01-Dec-23,Meghalaya,4-Wheelers,1,1060
+01-Jan-24,Mizoram,4-Wheelers,1,513
+01-Jan-24,Meghalaya,4-Wheelers,1,1429
+01-Feb-24,Andaman & Nicobar Island,4-Wheelers,1,181
+01-Feb-24,Nagaland,4-Wheelers,1,822
+01-Mar-24,Andaman & Nicobar Island,4-Wheelers,1,158
+01-Mar-24,Arunachal Pradesh,4-Wheelers,1,1081
+01-Apr-21,Andaman & Nicobar Island,4-Wheelers,9,168
+01-Apr-21,Andhra Pradesh,4-Wheelers,26,7837
+01-Apr-21,Bihar,4-Wheelers,4,5731
+01-Apr-21,Chandigarh,4-Wheelers,2,1426
+01-Apr-21,Delhi,4-Wheelers,61,8076
+01-Apr-21,Goa,4-Wheelers,8,1442
+01-Apr-21,Gujarat,4-Wheelers,44,17386
+01-Apr-21,Haryana,4-Wheelers,3,15476
+01-Apr-21,Jharkhand,4-Wheelers,3,3425
+01-Apr-21,Karnataka,4-Wheelers,90,16864
+01-Apr-21,Kerala,4-Wheelers,132,23660
+01-Apr-21,Madhya Pradesh,4-Wheelers,2,5356
+01-Apr-21,Maharashtra,4-Wheelers,96,16829
+01-Apr-21,Odisha,4-Wheelers,5,5101
+01-Apr-21,Punjab,4-Wheelers,4,8955
+01-Apr-21,Rajasthan,4-Wheelers,22,10647
+01-Apr-21,Tamil Nadu,4-Wheelers,75,18826
+01-Apr-21,Uttar Pradesh,4-Wheelers,4,23056
+01-Apr-21,Uttarakhand,4-Wheelers,10,2728
+01-Apr-21,West Bengal,4-Wheelers,24,7640
+01-May-21,Andhra Pradesh,4-Wheelers,16,5831
+01-May-21,Goa,4-Wheelers,4,393
+01-May-21,Gujarat,4-Wheelers,29,15959
+01-May-21,Karnataka,4-Wheelers,2,646
+01-May-21,Kerala,4-Wheelers,48,5164
+01-May-21,Maharashtra,4-Wheelers,121,13528
+01-May-21,Puducherry,4-Wheelers,2,119
+01-May-21,Rajasthan,4-Wheelers,7,2756
+01-May-21,Tamil Nadu,4-Wheelers,14,3413
+01-May-21,Uttar Pradesh,4-Wheelers,3,14016
+01-May-21,West Bengal,4-Wheelers,6,3962
+01-Jun-21,Andhra Pradesh,4-Wheelers,39,6098
+01-Jun-21,Bihar,4-Wheelers,4,5692
+01-Jun-21,Chandigarh,4-Wheelers,12,2050
+01-Jun-21,Chhattisgarh,4-Wheelers,5,4526
+01-Jun-21,Delhi,4-Wheelers,148,12914
+01-Jun-21,Goa,4-Wheelers,14,749
+01-Jun-21,Gujarat,4-Wheelers,61,19359
+01-Jun-21,Haryana,4-Wheelers,4,13420
+01-Jun-21,Jharkhand,4-Wheelers,4,4405
+01-Jun-21,Karnataka,4-Wheelers,71,8030
+01-Jun-21,Kerala,4-Wheelers,140,10018
+01-Jun-21,Madhya Pradesh,4-Wheelers,13,12092
+01-Jun-21,Maharashtra,4-Wheelers,190,24817
+01-Jun-21,Odisha,4-Wheelers,2,3041
+01-Jun-21,Punjab,4-Wheelers,3,7126
+01-Jun-21,Rajasthan,4-Wheelers,34,12070
+01-Jun-21,Tamil Nadu,4-Wheelers,42,7793
+01-Jun-21,Uttar Pradesh,4-Wheelers,3,25704
+01-Jun-21,Uttarakhand,4-Wheelers,7,2972
+01-Jun-21,West Bengal,4-Wheelers,18,6316
+01-Jul-21,Andaman & Nicobar Island,4-Wheelers,8,176
+01-Jul-21,Andhra Pradesh,4-Wheelers,36,7877
+01-Jul-21,Bihar,4-Wheelers,5,5438
+01-Jul-21,Chandigarh,4-Wheelers,9,1916
+01-Jul-21,Chhattisgarh,4-Wheelers,12,4916
+01-Jul-21,Delhi,4-Wheelers,131,15033
+01-Jul-21,Goa,4-Wheelers,10,982
+01-Jul-21,Gujarat,4-Wheelers,53,23792
+01-Jul-21,Haryana,4-Wheelers,6,14524
+01-Jul-21,Himachal Pradesh,4-Wheelers,2,3811
+01-Jul-21,Jharkhand,4-Wheelers,4,5020
+01-Jul-21,Karnataka,4-Wheelers,196,21640
+01-Jul-21,Kerala,4-Wheelers,139,18406
+01-Jul-21,Madhya Pradesh,4-Wheelers,17,14581
+01-Jul-21,Maharashtra,4-Wheelers,286,38063
+01-Jul-21,Odisha,4-Wheelers,3,5552
+01-Jul-21,Punjab,4-Wheelers,3,9328
+01-Jul-21,Rajasthan,4-Wheelers,52,14374
+01-Jul-21,Tamil Nadu,4-Wheelers,88,20857
+01-Jul-21,Uttar Pradesh,4-Wheelers,8,27999
+01-Jul-21,Uttarakhand,4-Wheelers,11,4182
+01-Jul-21,West Bengal,4-Wheelers,37,8919
+01-Aug-21,Andhra Pradesh,4-Wheelers,78,8245
+01-Aug-21,Assam,4-Wheelers,2,6447
+01-Aug-21,Bihar,4-Wheelers,7,5724
+01-Aug-21,Chandigarh,4-Wheelers,9,1845
+01-Aug-21,Chhattisgarh,4-Wheelers,11,4350
+01-Aug-21,Delhi,4-Wheelers,157,13177
+01-Aug-21,Goa,4-Wheelers,19,1439
+01-Aug-21,Gujarat,4-Wheelers,83,20394
+01-Aug-21,Haryana,4-Wheelers,3,16027
+01-Aug-21,Jharkhand,4-Wheelers,3,5113
+01-Aug-21,Karnataka,4-Wheelers,137,21975
+01-Aug-21,Kerala,4-Wheelers,183,22813
+01-Aug-21,Madhya Pradesh,4-Wheelers,26,12758
+01-Aug-21,Maharashtra,4-Wheelers,197,35127
+01-Aug-21,Odisha,4-Wheelers,4,5453
+01-Aug-21,Punjab,4-Wheelers,4,9209
+01-Aug-21,Rajasthan,4-Wheelers,53,11454
+01-Aug-21,Tamil Nadu,4-Wheelers,88,20865
+01-Aug-21,Uttar Pradesh,4-Wheelers,3,24012
+01-Aug-21,Uttarakhand,4-Wheelers,6,3760
+01-Aug-21,West Bengal,4-Wheelers,28,9198
+01-Sep-21,Andhra Pradesh,4-Wheelers,39,7952
+01-Sep-21,Bihar,4-Wheelers,4,4339
+01-Sep-21,Chandigarh,4-Wheelers,20,1607
+01-Sep-21,Chhattisgarh,4-Wheelers,12,3650
+01-Sep-21,Delhi,4-Wheelers,265,9181
+01-Sep-21,Goa,4-Wheelers,34,1277
+01-Sep-21,Gujarat,4-Wheelers,131,24797
+01-Sep-21,Haryana,4-Wheelers,7,14879
+01-Sep-21,Jharkhand,4-Wheelers,12,3892
+01-Sep-21,Karnataka,4-Wheelers,227,21407
+01-Sep-21,Kerala,4-Wheelers,164,22063
+01-Sep-21,Madhya Pradesh,4-Wheelers,23,11756
+01-Sep-21,Maharashtra,4-Wheelers,148,27900
+01-Sep-21,Odisha,4-Wheelers,2,4865
+01-Sep-21,Puducherry,4-Wheelers,2,640
+01-Sep-21,Punjab,4-Wheelers,3,7521
+01-Sep-21,Rajasthan,4-Wheelers,69,11035
+01-Sep-21,Tamil Nadu,4-Wheelers,107,18823
+01-Sep-21,Uttar Pradesh,4-Wheelers,4,23510
+01-Sep-21,Uttarakhand,4-Wheelers,10,3171
+01-Sep-21,West Bengal,4-Wheelers,34,9437
+01-Oct-21,Andhra Pradesh,4-Wheelers,37,7366
+01-Oct-21,Bihar,4-Wheelers,7,5838
+01-Oct-21,Chandigarh,4-Wheelers,12,1816
+01-Oct-21,Chhattisgarh,4-Wheelers,11,5255
+01-Oct-21,Delhi,4-Wheelers,253,12876
+01-Oct-21,Goa,4-Wheelers,28,1165
+01-Oct-21,Gujarat,4-Wheelers,104,23184
+01-Oct-21,Haryana,4-Wheelers,8,11634
+01-Oct-21,Jammu and Kashmir,4-Wheelers,2,4205
+01-Oct-21,Jharkhand,4-Wheelers,5,4806
+01-Oct-21,Karnataka,4-Wheelers,163,18505
+01-Oct-21,Kerala,4-Wheelers,158,14562
+01-Oct-21,Madhya Pradesh,4-Wheelers,20,9554
+01-Oct-21,Maharashtra,4-Wheelers,298,33771
+01-Oct-21,Odisha,4-Wheelers,2,5830
+01-Oct-21,Punjab,4-Wheelers,5,8523
+01-Oct-21,Rajasthan,4-Wheelers,86,12823
+01-Oct-21,Tamil Nadu,4-Wheelers,119,14796
+01-Oct-21,Uttar Pradesh,4-Wheelers,10,23095
+01-Oct-21,Uttarakhand,4-Wheelers,13,3523
+01-Oct-21,West Bengal,4-Wheelers,33,7120
+01-Nov-21,Andhra Pradesh,4-Wheelers,34,7374
+01-Nov-21,Bihar,4-Wheelers,11,6992
+01-Nov-21,Chandigarh,4-Wheelers,16,1919
+01-Nov-21,Chhattisgarh,4-Wheelers,14,4824
+01-Nov-21,Delhi,4-Wheelers,185,11782
+01-Nov-21,Goa,4-Wheelers,20,1293
+01-Nov-21,Gujarat,4-Wheelers,121,22396
+01-Nov-21,Haryana,4-Wheelers,13,16035
+01-Nov-21,Jharkhand,4-Wheelers,8,5320
+01-Nov-21,Karnataka,4-Wheelers,153,17247
+01-Nov-21,Kerala,4-Wheelers,214,15244
+01-Nov-21,Madhya Pradesh,4-Wheelers,31,12871
+01-Nov-21,Maharashtra,4-Wheelers,515,28322
+01-Nov-21,Odisha,4-Wheelers,18,5095
+01-Nov-21,Punjab,4-Wheelers,3,9015
+01-Nov-21,Rajasthan,4-Wheelers,79,16115
+01-Nov-21,Tamil Nadu,4-Wheelers,108,15533
+01-Nov-21,Uttar Pradesh,4-Wheelers,10,29608
+01-Nov-21,Uttarakhand,4-Wheelers,12,3954
+01-Nov-21,West Bengal,4-Wheelers,59,8836
+01-Dec-21,Andhra Pradesh,4-Wheelers,31,6314
+01-Dec-21,Assam,4-Wheelers,3,6737
+01-Dec-21,Bihar,4-Wheelers,7,5031
+01-Dec-21,Chandigarh,4-Wheelers,12,1985
+01-Dec-21,Chhattisgarh,4-Wheelers,5,3651
+01-Dec-21,Delhi,4-Wheelers,277,12633
+01-Dec-21,Goa,4-Wheelers,19,1306
+01-Dec-21,Gujarat,4-Wheelers,163,24277
+01-Dec-21,Haryana,4-Wheelers,11,16015
+01-Dec-21,Jharkhand,4-Wheelers,3,4258
+01-Dec-21,Karnataka,4-Wheelers,153,16243
+01-Dec-21,Kerala,4-Wheelers,186,16994
+01-Dec-21,Madhya Pradesh,4-Wheelers,30,11820
+01-Dec-21,Maharashtra,4-Wheelers,1392,29346
+01-Dec-21,Odisha,4-Wheelers,20,4634
+01-Dec-21,Puducherry,4-Wheelers,2,608
+01-Dec-21,Punjab,4-Wheelers,6,10624
+01-Dec-21,Rajasthan,4-Wheelers,73,12739
+01-Dec-21,Tamil Nadu,4-Wheelers,121,17001
+01-Dec-21,Uttar Pradesh,4-Wheelers,21,33774
+01-Dec-21,Uttarakhand,4-Wheelers,38,4270
+01-Dec-21,West Bengal,4-Wheelers,39,8452
+01-Jan-22,Andhra Pradesh,4-Wheelers,29,8418
+01-Jan-22,Bihar,4-Wheelers,10,5538
+01-Jan-22,Chandigarh,4-Wheelers,7,1519
+01-Jan-22,Chhattisgarh,4-Wheelers,11,4667
+01-Jan-22,Delhi,4-Wheelers,282,13659
+01-Jan-22,Goa,4-Wheelers,26,1185
+01-Jan-22,Gujarat,4-Wheelers,97,21963
+01-Jan-22,Haryana,4-Wheelers,26,17633
+01-Jan-22,Himachal Pradesh,4-Wheelers,3,3090
+01-Jan-22,Jharkhand,4-Wheelers,5,4345
+01-Jan-22,Karnataka,4-Wheelers,209,21967
+01-Jan-22,Kerala,4-Wheelers,212,17441
+01-Jan-22,Madhya Pradesh,4-Wheelers,25,11325
+01-Jan-22,Maharashtra,4-Wheelers,263,35772
+01-Jan-22,Odisha,4-Wheelers,27,5876
+01-Jan-22,Punjab,4-Wheelers,7,9792
+01-Jan-22,Rajasthan,4-Wheelers,92,13658
+01-Jan-22,Tamil Nadu,4-Wheelers,121,20494
+01-Jan-22,Uttar Pradesh,4-Wheelers,14,32561
+01-Jan-22,Uttarakhand,4-Wheelers,30,4241
+01-Jan-22,West Bengal,4-Wheelers,54,7968
+01-Feb-22,Andhra Pradesh,4-Wheelers,43,6361
+01-Feb-22,Assam,4-Wheelers,3,6152
+01-Feb-22,Bihar,4-Wheelers,8,5658
+01-Feb-22,Chandigarh,4-Wheelers,11,1941
+01-Feb-22,Chhattisgarh,4-Wheelers,20,3922
+01-Feb-22,Delhi,4-Wheelers,298,12608
+01-Feb-22,Goa,4-Wheelers,62,1160
+01-Feb-22,Gujarat,4-Wheelers,128,24012
+01-Feb-22,Haryana,4-Wheelers,28,16353
+01-Feb-22,Himachal Pradesh,4-Wheelers,5,3616
+01-Feb-22,Jammu and Kashmir,4-Wheelers,7,4679
+01-Feb-22,Jharkhand,4-Wheelers,4,4335
+01-Feb-22,Karnataka,4-Wheelers,202,17561
+01-Feb-22,Kerala,4-Wheelers,327,14575
+01-Feb-22,Madhya Pradesh,4-Wheelers,22,11274
+01-Feb-22,Maharashtra,4-Wheelers,905,31805
+01-Feb-22,Odisha,4-Wheelers,27,5023
+01-Feb-22,Punjab,4-Wheelers,5,9464
+01-Feb-22,Rajasthan,4-Wheelers,116,14811
+01-Feb-22,Tamil Nadu,4-Wheelers,135,16711
+01-Feb-22,Uttar Pradesh,4-Wheelers,22,28479
+01-Feb-22,Uttarakhand,4-Wheelers,24,3820
+01-Feb-22,West Bengal,4-Wheelers,45,7395
+01-Mar-22,Andaman & Nicobar Island,4-Wheelers,2,108
+01-Mar-22,Andhra Pradesh,4-Wheelers,55,7288
+01-Mar-22,Assam,4-Wheelers,2,7281
+01-Mar-22,Bihar,4-Wheelers,12,6694
+01-Mar-22,Chandigarh,4-Wheelers,14,2279
+01-Mar-22,Chhattisgarh,4-Wheelers,19,4200
+01-Mar-22,Delhi,4-Wheelers,220,13385
+01-Mar-22,Goa,4-Wheelers,91,1474
+01-Mar-22,Gujarat,4-Wheelers,249,26077
+01-Mar-22,Haryana,4-Wheelers,13,18621
+01-Mar-22,Himachal Pradesh,4-Wheelers,3,3371
+01-Mar-22,Jammu and Kashmir,4-Wheelers,4,4854
+01-Mar-22,Jharkhand,4-Wheelers,5,5062
+01-Mar-22,Karnataka,4-Wheelers,230,22167
+01-Mar-22,Kerala,4-Wheelers,331,16628
+01-Mar-22,Madhya Pradesh,4-Wheelers,35,11616
+01-Mar-22,Maharashtra,4-Wheelers,2060,39762
+01-Mar-22,Odisha,4-Wheelers,31,6098
+01-Mar-22,Puducherry,4-Wheelers,3,817
+01-Mar-22,Punjab,4-Wheelers,4,10836
+01-Mar-22,Rajasthan,4-Wheelers,89,13751
+01-Mar-22,Tamil Nadu,4-Wheelers,168,20604
+01-Mar-22,Uttar Pradesh,4-Wheelers,18,29324
+01-Mar-22,Uttarakhand,4-Wheelers,20,4026
+01-Mar-22,West Bengal,4-Wheelers,41,8539
+01-Apr-22,Andhra Pradesh,4-Wheelers,54,7195
+01-Apr-22,Assam,4-Wheelers,2,6354
+01-Apr-22,Bihar,4-Wheelers,8,5981
+01-Apr-22,Chandigarh,4-Wheelers,12,2167
+01-Apr-22,Chhattisgarh,4-Wheelers,20,4861
+01-Apr-22,Delhi,4-Wheelers,566,15811
+01-Apr-22,Goa,4-Wheelers,31,1390
+01-Apr-22,Gujarat,4-Wheelers,171,26534
+01-Apr-22,Haryana,4-Wheelers,11,16721
+01-Apr-22,Himachal Pradesh,4-Wheelers,4,3140
+01-Apr-22,Jammu and Kashmir,4-Wheelers,3,4468
+01-Apr-22,Jharkhand,4-Wheelers,9,4564
+01-Apr-22,Karnataka,4-Wheelers,311,24129
+01-Apr-22,Kerala,4-Wheelers,275,16142
+01-Apr-22,Madhya Pradesh,4-Wheelers,37,11896
+01-Apr-22,Maharashtra,4-Wheelers,354,32449
+01-Apr-22,Odisha,4-Wheelers,31,5448
+01-Apr-22,Puducherry,4-Wheelers,2,702
+01-Apr-22,Punjab,4-Wheelers,3,10147
+01-Apr-22,Rajasthan,4-Wheelers,87,15176
+01-Apr-22,Tamil Nadu,4-Wheelers,154,17499
+01-Apr-22,Uttar Pradesh,4-Wheelers,11,32173
+01-Apr-22,Uttarakhand,4-Wheelers,49,4116
+01-Apr-22,West Bengal,4-Wheelers,40,8560
+01-May-22,Andhra Pradesh,4-Wheelers,59,6927
+01-May-22,Assam,4-Wheelers,7,6761
+01-May-22,Bihar,4-Wheelers,12,6495
+01-May-22,Chandigarh,4-Wheelers,20,2248
+01-May-22,Chhattisgarh,4-Wheelers,24,4397
+01-May-22,Delhi,4-Wheelers,750,15194
+01-May-22,Goa,4-Wheelers,51,1360
+01-May-22,Gujarat,4-Wheelers,163,23174
+01-May-22,Haryana,4-Wheelers,31,18343
+01-May-22,Himachal Pradesh,4-Wheelers,3,3778
+01-May-22,Jammu and Kashmir,4-Wheelers,2,4775
+01-May-22,Jharkhand,4-Wheelers,3,4306
+01-May-22,Karnataka,4-Wheelers,241,20924
+01-May-22,Kerala,4-Wheelers,258,15706
+01-May-22,Madhya Pradesh,4-Wheelers,43,14017
+01-May-22,Maharashtra,4-Wheelers,794,34222
+01-May-22,Meghalaya,4-Wheelers,3,1051
+01-May-22,Odisha,4-Wheelers,40,5583
+01-May-22,Puducherry,4-Wheelers,2,726
+01-May-22,Punjab,4-Wheelers,2,9843
+01-May-22,Rajasthan,4-Wheelers,124,17047
+01-May-22,Tamil Nadu,4-Wheelers,202,19368
+01-May-22,Uttar Pradesh,4-Wheelers,26,30695
+01-May-22,Uttarakhand,4-Wheelers,22,3948
+01-May-22,West Bengal,4-Wheelers,76,8341
+01-Jun-22,Andhra Pradesh,4-Wheelers,47,6652
+01-Jun-22,Assam,4-Wheelers,9,5825
+01-Jun-22,Bihar,4-Wheelers,16,5543
+01-Jun-22,Chandigarh,4-Wheelers,19,1993
+01-Jun-22,Chhattisgarh,4-Wheelers,32,3933
+01-Jun-22,DNH and DD,4-Wheelers,4,369
+01-Jun-22,Delhi,4-Wheelers,267,14908
+01-Jun-22,Goa,4-Wheelers,74,1342
+01-Jun-22,Gujarat,4-Wheelers,337,26192
+01-Jun-22,Haryana,4-Wheelers,26,17365
+01-Jun-22,Himachal Pradesh,4-Wheelers,2,3457
+01-Jun-22,Jammu and Kashmir,4-Wheelers,4,4239
+01-Jun-22,Jharkhand,4-Wheelers,19,4097
+01-Jun-22,Karnataka,4-Wheelers,359,22817
+01-Jun-22,Kerala,4-Wheelers,345,16486
+01-Jun-22,Madhya Pradesh,4-Wheelers,42,12480
+01-Jun-22,Maharashtra,4-Wheelers,1082,35587
+01-Jun-22,Odisha,4-Wheelers,32,5778
+01-Jun-22,Puducherry,4-Wheelers,9,808
+01-Jun-22,Punjab,4-Wheelers,3,9388
+01-Jun-22,Rajasthan,4-Wheelers,136,13559
+01-Jun-22,Tamil Nadu,4-Wheelers,199,20592
+01-Jun-22,Uttar Pradesh,4-Wheelers,17,27820
+01-Jun-22,Uttarakhand,4-Wheelers,38,3959
+01-Jun-22,West Bengal,4-Wheelers,91,8407
+01-Jul-22,Andhra Pradesh,4-Wheelers,63,6757
+01-Jul-22,Assam,4-Wheelers,11,6769
+01-Jul-22,Bihar,4-Wheelers,10,5215
+01-Jul-22,Chandigarh,4-Wheelers,21,2709
+01-Jul-22,Chhattisgarh,4-Wheelers,29,4394
+01-Jul-22,Delhi,4-Wheelers,438,16056
+01-Jul-22,Goa,4-Wheelers,107,1545
+01-Jul-22,Gujarat,4-Wheelers,308,24735
+01-Jul-22,Haryana,4-Wheelers,135,17539
+01-Jul-22,Himachal Pradesh,4-Wheelers,6,3618
+01-Jul-22,Jammu and Kashmir,4-Wheelers,9,4577
+01-Jul-22,Jharkhand,4-Wheelers,7,4187
+01-Jul-22,Karnataka,4-Wheelers,358,19322
+01-Jul-22,Kerala,4-Wheelers,292,14993
+01-Jul-22,Madhya Pradesh,4-Wheelers,45,11437
+01-Jul-22,Maharashtra,4-Wheelers,1098,35100
+01-Jul-22,Meghalaya,4-Wheelers,2,1053
+01-Jul-22,Odisha,4-Wheelers,29,5336
+01-Jul-22,Puducherry,4-Wheelers,5,681
+01-Jul-22,Punjab,4-Wheelers,7,9415
+01-Jul-22,Rajasthan,4-Wheelers,102,12817
+01-Jul-22,Tamil Nadu,4-Wheelers,176,17830
+01-Jul-22,Uttar Pradesh,4-Wheelers,19,27276
+01-Jul-22,Uttarakhand,4-Wheelers,34,3820
+01-Jul-22,West Bengal,4-Wheelers,93,8312
+01-Aug-22,Andhra Pradesh,4-Wheelers,64,7491
+01-Aug-22,Assam,4-Wheelers,10,6733
+01-Aug-22,Bihar,4-Wheelers,15,5012
+01-Aug-22,Chandigarh,4-Wheelers,19,1903
+01-Aug-22,Chhattisgarh,4-Wheelers,35,3974
+01-Aug-22,Delhi,4-Wheelers,443,16315
+01-Aug-22,Goa,4-Wheelers,44,2364
+01-Aug-22,Gujarat,4-Wheelers,230,23571
+01-Aug-22,Haryana,4-Wheelers,163,18545
+01-Aug-22,Himachal Pradesh,4-Wheelers,2,3517
+01-Aug-22,Jammu and Kashmir,4-Wheelers,3,4299
+01-Aug-22,Jharkhand,4-Wheelers,15,4040
+01-Aug-22,Karnataka,4-Wheelers,363,23924
+01-Aug-22,Kerala,4-Wheelers,342,21051
+01-Aug-22,Ladakh,4-Wheelers,9,269
+01-Aug-22,Madhya Pradesh,4-Wheelers,72,15953
+01-Aug-22,Maharashtra,4-Wheelers,992,40173
+01-Aug-22,Odisha,4-Wheelers,43,5716
+01-Aug-22,Puducherry,4-Wheelers,4,758
+01-Aug-22,Punjab,4-Wheelers,3,9913
+01-Aug-22,Rajasthan,4-Wheelers,145,12578
+01-Aug-22,Tamil Nadu,4-Wheelers,182,20944
+01-Aug-22,Uttar Pradesh,4-Wheelers,15,25778
+01-Aug-22,Uttarakhand,4-Wheelers,34,3599
+01-Aug-22,West Bengal,4-Wheelers,110,9228
+01-Sep-22,Andhra Pradesh,4-Wheelers,61,8003
+01-Sep-22,Assam,4-Wheelers,13,8690
+01-Sep-22,Bihar,4-Wheelers,14,5315
+01-Sep-22,Chandigarh,4-Wheelers,26,2119
+01-Sep-22,Chhattisgarh,4-Wheelers,50,3978
+01-Sep-22,Delhi,4-Wheelers,471,14076
+01-Sep-22,Goa,4-Wheelers,42,1687
+01-Sep-22,Gujarat,4-Wheelers,299,25102
+01-Sep-22,Haryana,4-Wheelers,49,14140
+01-Sep-22,Himachal Pradesh,4-Wheelers,4,2815
+01-Sep-22,Jammu and Kashmir,4-Wheelers,4,4432
+01-Sep-22,Jharkhand,4-Wheelers,31,4183
+01-Sep-22,Karnataka,4-Wheelers,493,25136
+01-Sep-22,Kerala,4-Wheelers,397,19551
+01-Sep-22,Madhya Pradesh,4-Wheelers,61,11080
+01-Sep-22,Maharashtra,4-Wheelers,939,33643
+01-Sep-22,Meghalaya,4-Wheelers,2,1047
+01-Sep-22,Odisha,4-Wheelers,40,5941
+01-Sep-22,Puducherry,4-Wheelers,2,858
+01-Sep-22,Punjab,4-Wheelers,4,8968
+01-Sep-22,Rajasthan,4-Wheelers,150,12513
+01-Sep-22,Tamil Nadu,4-Wheelers,218,21233
+01-Sep-22,Uttar Pradesh,4-Wheelers,23,22777
+01-Sep-22,Uttarakhand,4-Wheelers,29,3066
+01-Sep-22,West Bengal,4-Wheelers,123,11473
+01-Oct-22,Andhra Pradesh,4-Wheelers,57,8075
+01-Oct-22,Assam,4-Wheelers,11,7529
+01-Oct-22,Bihar,4-Wheelers,19,7888
+01-Oct-22,Chandigarh,4-Wheelers,16,2422
+01-Oct-22,Chhattisgarh,4-Wheelers,51,7365
+01-Oct-22,DNH and DD,4-Wheelers,2,432
+01-Oct-22,Delhi,4-Wheelers,633,18613
+01-Oct-22,Goa,4-Wheelers,40,2230
+01-Oct-22,Gujarat,4-Wheelers,189,31456
+01-Oct-22,Haryana,4-Wheelers,39,21475
+01-Oct-22,Himachal Pradesh,4-Wheelers,2,3447
+01-Oct-22,Jammu and Kashmir,4-Wheelers,8,4556
+01-Oct-22,Jharkhand,4-Wheelers,22,6208
+01-Oct-22,Karnataka,4-Wheelers,563,26091
+01-Oct-22,Kerala,4-Wheelers,419,16857
+01-Oct-22,Madhya Pradesh,4-Wheelers,63,22052
+01-Oct-22,Maharashtra,4-Wheelers,1174,51561
+01-Oct-22,Odisha,4-Wheelers,43,6848
+01-Oct-22,Puducherry,4-Wheelers,4,754
+01-Oct-22,Punjab,4-Wheelers,3,10552
+01-Oct-22,Rajasthan,4-Wheelers,204,22678
+01-Oct-22,Tamil Nadu,4-Wheelers,184,18425
+01-Oct-22,Uttar Pradesh,4-Wheelers,21,42577
+01-Oct-22,Uttarakhand,4-Wheelers,50,5163
+01-Oct-22,West Bengal,4-Wheelers,94,6483
+01-Nov-22,Andhra Pradesh,4-Wheelers,95,6272
+01-Nov-22,Assam,4-Wheelers,10,7676
+01-Nov-22,Bihar,4-Wheelers,6,6295
+01-Nov-22,Chandigarh,4-Wheelers,61,2279
+01-Nov-22,Chhattisgarh,4-Wheelers,33,3846
+01-Nov-22,DNH and DD,4-Wheelers,2,455
+01-Nov-22,Delhi,4-Wheelers,483,15949
+01-Nov-22,Goa,4-Wheelers,26,1797
+01-Nov-22,Gujarat,4-Wheelers,374,36212
+01-Nov-22,Haryana,4-Wheelers,133,21202
+01-Nov-22,Himachal Pradesh,4-Wheelers,2,5135
+01-Nov-22,Jharkhand,4-Wheelers,15,4657
+01-Nov-22,Karnataka,4-Wheelers,564,23618
+01-Nov-22,Kerala,4-Wheelers,325,15267
+01-Nov-22,Madhya Pradesh,4-Wheelers,54,10575
+01-Nov-22,Maharashtra,4-Wheelers,1144,35215
+01-Nov-22,Odisha,4-Wheelers,53,5833
+01-Nov-22,Puducherry,4-Wheelers,9,782
+01-Nov-22,Rajasthan,4-Wheelers,113,15252
+01-Nov-22,Tamil Nadu,4-Wheelers,311,20180
+01-Nov-22,Uttar Pradesh,4-Wheelers,11,31886
+01-Nov-22,Uttarakhand,4-Wheelers,31,5199
+01-Nov-22,West Bengal,4-Wheelers,121,10465
+01-Dec-22,Andaman & Nicobar Island,4-Wheelers,3,229
+01-Dec-22,Andhra Pradesh,4-Wheelers,120,6769
+01-Dec-22,Assam,4-Wheelers,4,8441
+01-Dec-22,Bihar,4-Wheelers,5,4752
+01-Dec-22,Chandigarh,4-Wheelers,46,2261
+01-Dec-22,Chhattisgarh,4-Wheelers,40,3887
+01-Dec-22,DNH and DD,4-Wheelers,2,365
+01-Dec-22,Delhi,4-Wheelers,791,15492
+01-Dec-22,Goa,4-Wheelers,30,1744
+01-Dec-22,Gujarat,4-Wheelers,260,27614
+01-Dec-22,Haryana,4-Wheelers,177,18223
+01-Dec-22,Himachal Pradesh,4-Wheelers,7,4026
+01-Dec-22,Jammu and Kashmir,4-Wheelers,4,5304
+01-Dec-22,Jharkhand,4-Wheelers,22,3979
+01-Dec-22,Karnataka,4-Wheelers,438,22142
+01-Dec-22,Kerala,4-Wheelers,298,16601
+01-Dec-22,Madhya Pradesh,4-Wheelers,35,11124
+01-Dec-22,Maharashtra,4-Wheelers,887,32422
+01-Dec-22,Odisha,4-Wheelers,42,6616
+01-Dec-22,Puducherry,4-Wheelers,4,690
+01-Dec-22,Rajasthan,4-Wheelers,110,12634
+01-Dec-22,Tamil Nadu,4-Wheelers,406,20201
+01-Dec-22,Uttar Pradesh,4-Wheelers,13,27230
+01-Dec-22,Uttarakhand,4-Wheelers,24,3881
+01-Dec-22,West Bengal,4-Wheelers,65,8047
+01-Jan-23,Andhra Pradesh,4-Wheelers,121,10775
+01-Jan-23,Assam,4-Wheelers,5,7240
+01-Jan-23,Bihar,4-Wheelers,19,6600
+01-Jan-23,Chandigarh,4-Wheelers,50,2500
+01-Jan-23,Chhattisgarh,4-Wheelers,56,4880
+01-Jan-23,Delhi,4-Wheelers,331,17993
+01-Jan-23,Goa,4-Wheelers,44,1888
+01-Jan-23,Gujarat,4-Wheelers,212,25859
+01-Jan-23,Haryana,4-Wheelers,141,25164
+01-Jan-23,Himachal Pradesh,4-Wheelers,5,4192
+01-Jan-23,Jammu and Kashmir,4-Wheelers,4,4245
+01-Jan-23,Jharkhand,4-Wheelers,41,5016
+01-Jan-23,Karnataka,4-Wheelers,587,26011
+01-Jan-23,Kerala,4-Wheelers,344,17267
+01-Jan-23,Madhya Pradesh,4-Wheelers,69,17945
+01-Jan-23,Maharashtra,4-Wheelers,827,44349
+01-Jan-23,Manipur,4-Wheelers,3,892
+01-Jan-23,Odisha,4-Wheelers,51,6278
+01-Jan-23,Puducherry,4-Wheelers,3,1004
+01-Jan-23,Rajasthan,4-Wheelers,155,18017
+01-Jan-23,Tamil Nadu,4-Wheelers,202,24430
+01-Jan-23,Uttar Pradesh,4-Wheelers,26,41439
+01-Jan-23,Uttarakhand,4-Wheelers,16,5040
+01-Jan-23,West Bengal,4-Wheelers,124,9141
+01-Feb-23,Andhra Pradesh,4-Wheelers,116,6628
+01-Feb-23,Assam,4-Wheelers,13,7029
+01-Feb-23,Bihar,4-Wheelers,46,6117
+01-Feb-23,Chandigarh,4-Wheelers,59,2061
+01-Feb-23,Chhattisgarh,4-Wheelers,73,4196
+01-Feb-23,DNH and DD,4-Wheelers,3,411
+01-Feb-23,Delhi,4-Wheelers,510,14823
+01-Feb-23,Goa,4-Wheelers,83,1760
+01-Feb-23,Gujarat,4-Wheelers,271,28856
+01-Feb-23,Haryana,4-Wheelers,175,19656
+01-Feb-23,Himachal Pradesh,4-Wheelers,21,3952
+01-Feb-23,Jammu and Kashmir,4-Wheelers,8,4449
+01-Feb-23,Jharkhand,4-Wheelers,33,4234
+01-Feb-23,Karnataka,4-Wheelers,616,21837
+01-Feb-23,Kerala,4-Wheelers,662,14603
+01-Feb-23,Madhya Pradesh,4-Wheelers,144,17295
+01-Feb-23,Maharashtra,4-Wheelers,1012,30727
+01-Feb-23,Manipur,4-Wheelers,5,756
+01-Feb-23,Odisha,4-Wheelers,60,5397
+01-Feb-23,Puducherry,4-Wheelers,3,703
+01-Feb-23,Punjab,4-Wheelers,18,11765
+01-Feb-23,Rajasthan,4-Wheelers,293,15819
+01-Feb-23,Tamil Nadu,4-Wheelers,307,18758
+01-Feb-23,Uttar Pradesh,4-Wheelers,60,32464
+01-Feb-23,Uttarakhand,4-Wheelers,23,3985
+01-Feb-23,West Bengal,4-Wheelers,142,8054
+01-Mar-23,Andhra Pradesh,4-Wheelers,173,7764
+01-Mar-23,Assam,4-Wheelers,20,8324
+01-Mar-23,Bihar,4-Wheelers,47,6322
+01-Mar-23,Chandigarh,4-Wheelers,131,2589
+01-Mar-23,Chhattisgarh,4-Wheelers,95,5119
+01-Mar-23,DNH and DD,4-Wheelers,2,485
+01-Mar-23,Delhi,4-Wheelers,1544,18638
+01-Mar-23,Goa,4-Wheelers,112,2439
+01-Mar-23,Gujarat,4-Wheelers,498,26082
+01-Mar-23,Haryana,4-Wheelers,477,21547
+01-Mar-23,Himachal Pradesh,4-Wheelers,7,3574
+01-Mar-23,Jammu and Kashmir,4-Wheelers,17,5388
+01-Mar-23,Jharkhand,4-Wheelers,52,4670
+01-Mar-23,Karnataka,4-Wheelers,1062,28169
+01-Mar-23,Kerala,4-Wheelers,1107,24727
+01-Mar-23,Madhya Pradesh,4-Wheelers,159,14745
+01-Mar-23,Maharashtra,4-Wheelers,1389,42854
+01-Mar-23,Odisha,4-Wheelers,74,6358
+01-Mar-23,Puducherry,4-Wheelers,4,999
+01-Mar-23,Punjab,4-Wheelers,13,12430
+01-Mar-23,Rajasthan,4-Wheelers,425,18370
+01-Mar-23,Tamil Nadu,4-Wheelers,571,22131
+01-Mar-23,Tripura,4-Wheelers,9,329
+01-Mar-23,Uttar Pradesh,4-Wheelers,431,34186
+01-Mar-23,Uttarakhand,4-Wheelers,48,4596
+01-Mar-23,West Bengal,4-Wheelers,352,8955
+01-Apr-23,Andhra Pradesh,4-Wheelers,225,7229
+01-Apr-23,Assam,4-Wheelers,20,7022
+01-Apr-23,Bihar,4-Wheelers,40,5840
+01-Apr-23,Chandigarh,4-Wheelers,62,2482
+01-Apr-23,Chhattisgarh,4-Wheelers,93,5558
+01-Apr-23,Delhi,4-Wheelers,551,14861
+01-Apr-23,Goa,4-Wheelers,57,1633
+01-Apr-23,Gujarat,4-Wheelers,537,28451
+01-Apr-23,Haryana,4-Wheelers,363,21914
+01-Apr-23,Himachal Pradesh,4-Wheelers,9,3880
+01-Apr-23,Jammu and Kashmir,4-Wheelers,4,3728
+01-Apr-23,Jharkhand,4-Wheelers,39,4281
+01-Apr-23,Karnataka,4-Wheelers,762,22368
+01-Apr-23,Kerala,4-Wheelers,637,9171
+01-Apr-23,Madhya Pradesh,4-Wheelers,95,10894
+01-Apr-23,Maharashtra,4-Wheelers,1139,35336
+01-Apr-23,Meghalaya,4-Wheelers,2,1094
+01-Apr-23,Odisha,4-Wheelers,84,5315
+01-Apr-23,Puducherry,4-Wheelers,5,735
+01-Apr-23,Punjab,4-Wheelers,22,9734
+01-Apr-23,Rajasthan,4-Wheelers,291,14377
+01-Apr-23,Tamil Nadu,4-Wheelers,399,18659
+01-Apr-23,Uttar Pradesh,4-Wheelers,364,32143
+01-Apr-23,Uttarakhand,4-Wheelers,47,4887
+01-Apr-23,West Bengal,4-Wheelers,152,7999
+01-May-23,Andhra Pradesh,4-Wheelers,216,8095
+01-May-23,Assam,4-Wheelers,30,6994
+01-May-23,Bihar,4-Wheelers,46,6865
+01-May-23,Chandigarh,4-Wheelers,83,2556
+01-May-23,Chhattisgarh,4-Wheelers,185,3785
+01-May-23,DNH and DD,4-Wheelers,4,416
+01-May-23,Delhi,4-Wheelers,787,16609
+01-May-23,Goa,4-Wheelers,85,1878
+01-May-23,Gujarat,4-Wheelers,710,25770
+01-May-23,Haryana,4-Wheelers,211,21218
+01-May-23,Himachal Pradesh,4-Wheelers,21,3565
+01-May-23,Jammu and Kashmir,4-Wheelers,14,5095
+01-May-23,Jharkhand,4-Wheelers,37,4755
+01-May-23,Karnataka,4-Wheelers,999,22601
+01-May-23,Kerala,4-Wheelers,954,14819
+01-May-23,Madhya Pradesh,4-Wheelers,136,12488
+01-May-23,Maharashtra,4-Wheelers,1137,35179
+01-May-23,Manipur,4-Wheelers,4,119
+01-May-23,Meghalaya,4-Wheelers,2,1027
+01-May-23,Odisha,4-Wheelers,105,5951
+01-May-23,Puducherry,4-Wheelers,6,943
+01-May-23,Punjab,4-Wheelers,63,11047
+01-May-23,Rajasthan,4-Wheelers,419,16157
+01-May-23,Tamil Nadu,4-Wheelers,529,20789
+01-May-23,Tripura,4-Wheelers,2,436
+01-May-23,Uttar Pradesh,4-Wheelers,472,34515
+01-May-23,Uttarakhand,4-Wheelers,61,4675
+01-May-23,West Bengal,4-Wheelers,322,8672
+01-Jun-23,Andhra Pradesh,4-Wheelers,156,6611
+01-Jun-23,Assam,4-Wheelers,28,6751
+01-Jun-23,Bihar,4-Wheelers,52,6134
+01-Jun-23,Chandigarh,4-Wheelers,77,2597
+01-Jun-23,Chhattisgarh,4-Wheelers,114,3650
+01-Jun-23,Delhi,4-Wheelers,935,15723
+01-Jun-23,Goa,4-Wheelers,75,1699
+01-Jun-23,Gujarat,4-Wheelers,698,24829
+01-Jun-23,Haryana,4-Wheelers,263,21135
+01-Jun-23,Himachal Pradesh,4-Wheelers,19,3448
+01-Jun-23,Jammu and Kashmir,4-Wheelers,18,4437
+01-Jun-23,Jharkhand,4-Wheelers,48,4320
+01-Jun-23,Karnataka,4-Wheelers,1142,24603
+01-Jun-23,Kerala,4-Wheelers,885,14389
+01-Jun-23,Madhya Pradesh,4-Wheelers,107,10927
+01-Jun-23,Maharashtra,4-Wheelers,1360,36069
+01-Jun-23,Meghalaya,4-Wheelers,2,950
+01-Jun-23,Odisha,4-Wheelers,89,5873
+01-Jun-23,Puducherry,4-Wheelers,8,910
+01-Jun-23,Punjab,4-Wheelers,76,10547
+01-Jun-23,Rajasthan,4-Wheelers,380,15534
+01-Jun-23,Tamil Nadu,4-Wheelers,572,22976
+01-Jun-23,Tripura,4-Wheelers,2,375
+01-Jun-23,Uttar Pradesh,4-Wheelers,393,30578
+01-Jun-23,Uttarakhand,4-Wheelers,42,4393
+01-Jun-23,West Bengal,4-Wheelers,247,8471
+01-Jul-23,Andaman & Nicobar Island,4-Wheelers,3,163
+01-Jul-23,Andhra Pradesh,4-Wheelers,157,6820
+01-Jul-23,Arunachal Pradesh,4-Wheelers,2,1069
+01-Jul-23,Assam,4-Wheelers,23,7381
+01-Jul-23,Bihar,4-Wheelers,58,5189
+01-Jul-23,Chandigarh,4-Wheelers,71,2326
+01-Jul-23,Chhattisgarh,4-Wheelers,94,3346
+01-Jul-23,DNH and DD,4-Wheelers,4,391
+01-Jul-23,Delhi,4-Wheelers,831,15285
+01-Jul-23,Goa,4-Wheelers,84,1739
+01-Jul-23,Gujarat,4-Wheelers,692,27755
+01-Jul-23,Haryana,4-Wheelers,92,11915
+01-Jul-23,Himachal Pradesh,4-Wheelers,12,3956
+01-Jul-23,Jammu and Kashmir,4-Wheelers,11,4435
+01-Jul-23,Jharkhand,4-Wheelers,31,4010
+01-Jul-23,Karnataka,4-Wheelers,1221,23154
+01-Jul-23,Kerala,4-Wheelers,871,14002
+01-Jul-23,Madhya Pradesh,4-Wheelers,138,10811
+01-Jul-23,Maharashtra,4-Wheelers,1103,36082
+01-Jul-23,Manipur,4-Wheelers,6,427
+01-Jul-23,Meghalaya,4-Wheelers,3,1030
+01-Jul-23,Odisha,4-Wheelers,134,5745
+01-Jul-23,Puducherry,4-Wheelers,7,809
+01-Jul-23,Punjab,4-Wheelers,92,10766
+01-Jul-23,Rajasthan,4-Wheelers,405,14064
+01-Jul-23,Tamil Nadu,4-Wheelers,630,20553
+01-Jul-23,Tripura,4-Wheelers,2,578
+01-Jul-23,Uttar Pradesh,4-Wheelers,420,29214
+01-Jul-23,Uttarakhand,4-Wheelers,53,4216
+01-Jul-23,West Bengal,4-Wheelers,179,8111
+01-Aug-23,Andaman & Nicobar Island,4-Wheelers,3,183
+01-Aug-23,Andhra Pradesh,4-Wheelers,104,7397
+01-Aug-23,Arunachal Pradesh,4-Wheelers,4,1121
+01-Aug-23,Assam,4-Wheelers,27,7557
+01-Aug-23,Bihar,4-Wheelers,53,5334
+01-Aug-23,Chandigarh,4-Wheelers,80,1937
+01-Aug-23,Chhattisgarh,4-Wheelers,107,3859
+01-Aug-23,Delhi,4-Wheelers,440,15852
+01-Aug-23,Goa,4-Wheelers,98,2177
+01-Aug-23,Gujarat,4-Wheelers,512,25572
+01-Aug-23,Haryana,4-Wheelers,189,24414
+01-Aug-23,Himachal Pradesh,4-Wheelers,11,3975
+01-Aug-23,Jammu and Kashmir,4-Wheelers,15,4843
+01-Aug-23,Jharkhand,4-Wheelers,52,4040
+01-Aug-23,Karnataka,4-Wheelers,1196,28235
+01-Aug-23,Kerala,4-Wheelers,736,18189
+01-Aug-23,Madhya Pradesh,4-Wheelers,112,11479
+01-Aug-23,Maharashtra,4-Wheelers,1070,40169
+01-Aug-23,Manipur,4-Wheelers,6,458
+01-Aug-23,Meghalaya,4-Wheelers,3,1215
+01-Aug-23,Odisha,4-Wheelers,146,6282
+01-Aug-23,Puducherry,4-Wheelers,14,955
+01-Aug-23,Punjab,4-Wheelers,75,11493
+01-Aug-23,Rajasthan,4-Wheelers,396,14786
+01-Aug-23,Tamil Nadu,4-Wheelers,591,23537
+01-Aug-23,Tripura,4-Wheelers,2,466
+01-Aug-23,Uttar Pradesh,4-Wheelers,482,29829
+01-Aug-23,Uttarakhand,4-Wheelers,50,4283
+01-Aug-23,West Bengal,4-Wheelers,178,9101
+01-Sep-23,Andhra Pradesh,4-Wheelers,59,7044
+01-Sep-23,Arunachal Pradesh,4-Wheelers,4,1003
+01-Sep-23,Assam,4-Wheelers,23,8078
+01-Sep-23,Bihar,4-Wheelers,60,5210
+01-Sep-23,Chandigarh,4-Wheelers,54,1491
+01-Sep-23,Chhattisgarh,4-Wheelers,83,3993
+01-Sep-23,DNH and DD,4-Wheelers,6,468
+01-Sep-23,Delhi,4-Wheelers,380,15776
+01-Sep-23,Goa,4-Wheelers,69,2801
+01-Sep-23,Gujarat,4-Wheelers,633,36818
+01-Sep-23,Haryana,4-Wheelers,92,24045
+01-Sep-23,Himachal Pradesh,4-Wheelers,9,3683
+01-Sep-23,Jammu and Kashmir,4-Wheelers,9,4430
+01-Sep-23,Jharkhand,4-Wheelers,22,4600
+01-Sep-23,Karnataka,4-Wheelers,942,24184
+01-Sep-23,Kerala,4-Wheelers,773,21467
+01-Sep-23,Madhya Pradesh,4-Wheelers,117,11748
+01-Sep-23,Maharashtra,4-Wheelers,869,43063
+01-Sep-23,Meghalaya,4-Wheelers,3,1139
+01-Sep-23,Odisha,4-Wheelers,101,6354
+01-Sep-23,Puducherry,4-Wheelers,10,912
+01-Sep-23,Punjab,4-Wheelers,83,12368
+01-Sep-23,Rajasthan,4-Wheelers,375,16356
+01-Sep-23,Tamil Nadu,4-Wheelers,543,22461
+01-Sep-23,Tripura,4-Wheelers,3,470
+01-Sep-23,Uttar Pradesh,4-Wheelers,476,29087
+01-Sep-23,Uttarakhand,4-Wheelers,30,4234
+01-Sep-23,West Bengal,4-Wheelers,218,9011
+01-Oct-23,Andhra Pradesh,4-Wheelers,68,7743
+01-Oct-23,Arunachal Pradesh,4-Wheelers,2,1111
+01-Oct-23,Assam,4-Wheelers,24,9481
+01-Oct-23,Bihar,4-Wheelers,57,6068
+01-Oct-23,Chandigarh,4-Wheelers,71,1722
+01-Oct-23,Chhattisgarh,4-Wheelers,79,4920
+01-Oct-23,DNH and DD,4-Wheelers,12,620
+01-Oct-23,Delhi,4-Wheelers,519,16459
+01-Oct-23,Goa,4-Wheelers,87,2094
+01-Oct-23,Gujarat,4-Wheelers,670,42365
+01-Oct-23,Haryana,4-Wheelers,220,20543
+01-Oct-23,Himachal Pradesh,4-Wheelers,7,3066
+01-Oct-23,Jammu and Kashmir,4-Wheelers,10,4603
+01-Oct-23,Jharkhand,4-Wheelers,30,4837
+01-Oct-23,Karnataka,4-Wheelers,1154,25652
+01-Oct-23,Kerala,4-Wheelers,642,14522
+01-Oct-23,Madhya Pradesh,4-Wheelers,112,13646
+01-Oct-23,Maharashtra,4-Wheelers,1404,47126
+01-Oct-23,Manipur,4-Wheelers,2,272
+01-Oct-23,Odisha,4-Wheelers,130,8500
+01-Oct-23,Puducherry,4-Wheelers,7,990
+01-Oct-23,Punjab,4-Wheelers,94,11396
+01-Oct-23,Rajasthan,4-Wheelers,464,18951
+01-Oct-23,Tamil Nadu,4-Wheelers,556,28342
+01-Oct-23,Tripura,4-Wheelers,3,497
+01-Oct-23,Uttar Pradesh,4-Wheelers,512,33774
+01-Oct-23,Uttarakhand,4-Wheelers,34,4562
+01-Oct-23,West Bengal,4-Wheelers,238,9972
+01-Nov-23,Andhra Pradesh,4-Wheelers,98,8220
+01-Nov-23,Arunachal Pradesh,4-Wheelers,3,1226
+01-Nov-23,Assam,4-Wheelers,26,7960
+01-Nov-23,Bihar,4-Wheelers,50,9075
+01-Nov-23,Chandigarh,4-Wheelers,88,1805
+01-Nov-23,Chhattisgarh,4-Wheelers,99,5877
+01-Nov-23,DNH and DD,4-Wheelers,3,590
+01-Nov-23,Delhi,4-Wheelers,538,18675
+01-Nov-23,Goa,4-Wheelers,97,2521
+01-Nov-23,Gujarat,4-Wheelers,592,32601
+01-Nov-23,Haryana,4-Wheelers,215,22002
+01-Nov-23,Himachal Pradesh,4-Wheelers,15,4242
+01-Nov-23,Jammu and Kashmir,4-Wheelers,18,4981
+01-Nov-23,Jharkhand,4-Wheelers,40,6684
+01-Nov-23,Karnataka,4-Wheelers,822,26232
+01-Nov-23,Kerala,4-Wheelers,641,12551
+01-Nov-23,Madhya Pradesh,4-Wheelers,137,17166
+01-Nov-23,Maharashtra,4-Wheelers,1315,48131
+01-Nov-23,Manipur,4-Wheelers,2,246
+01-Nov-23,Meghalaya,4-Wheelers,2,1387
+01-Nov-23,Odisha,4-Wheelers,177,7105
+01-Nov-23,Puducherry,4-Wheelers,11,990
+01-Nov-23,Punjab,4-Wheelers,128,12992
+01-Nov-23,Rajasthan,4-Wheelers,539,24386
+01-Nov-23,Tamil Nadu,4-Wheelers,599,19015
+01-Nov-23,Tripura,4-Wheelers,2,657
+01-Nov-23,Uttar Pradesh,4-Wheelers,446,42692
+01-Nov-23,Uttarakhand,4-Wheelers,47,5398
+01-Nov-23,West Bengal,4-Wheelers,290,9743
+01-Dec-23,Andaman & Nicobar Island,4-Wheelers,2,175
+01-Dec-23,Andhra Pradesh,4-Wheelers,130,7155
+01-Dec-23,Arunachal Pradesh,4-Wheelers,2,1137
+01-Dec-23,Assam,4-Wheelers,30,8111
+01-Dec-23,Bihar,4-Wheelers,59,4788
+01-Dec-23,Chandigarh,4-Wheelers,130,1496
+01-Dec-23,Chhattisgarh,4-Wheelers,93,3575
+01-Dec-23,DNH and DD,4-Wheelers,5,488
+01-Dec-23,Delhi,4-Wheelers,811,16567
+01-Dec-23,Goa,4-Wheelers,71,1859
+01-Dec-23,Gujarat,4-Wheelers,548,26023
+01-Dec-23,Haryana,4-Wheelers,218,23698
+01-Dec-23,Himachal Pradesh,4-Wheelers,16,5710
+01-Dec-23,Jammu and Kashmir,4-Wheelers,15,4531
+01-Dec-23,Jharkhand,4-Wheelers,27,4375
+01-Dec-23,Karnataka,4-Wheelers,1155,22859
+01-Dec-23,Kerala,4-Wheelers,736,13811
+01-Dec-23,Madhya Pradesh,4-Wheelers,134,9736
+01-Dec-23,Maharashtra,4-Wheelers,1125,32212
+01-Dec-23,Manipur,4-Wheelers,2,206
+01-Dec-23,Odisha,4-Wheelers,186,7280
+01-Dec-23,Puducherry,4-Wheelers,12,860
+01-Dec-23,Punjab,4-Wheelers,116,13632
+01-Dec-23,Rajasthan,4-Wheelers,348,13082
+01-Dec-23,Tamil Nadu,4-Wheelers,520,19246
+01-Dec-23,Tripura,4-Wheelers,4,489
+01-Dec-23,Uttar Pradesh,4-Wheelers,498,29434
+01-Dec-23,Uttarakhand,4-Wheelers,37,5430
+01-Dec-23,West Bengal,4-Wheelers,160,8435
+01-Jan-24,Uttar Pradesh,4-Wheelers,399,44334
+01-Jan-24,Maharashtra,4-Wheelers,1289,50156
+01-Jan-24,Karnataka,4-Wheelers,1080,30770
+01-Jan-24,Tamil Nadu,4-Wheelers,626,28455
+01-Jan-24,Bihar,4-Wheelers,58,6824
+01-Jan-24,Kerala,4-Wheelers,734,164
+01-Jan-24,Rajasthan,4-Wheelers,498,21747
+01-Jan-24,Delhi,4-Wheelers,1345,21520
+01-Jan-24,Madhya Pradesh,4-Wheelers,172,19326
+01-Jan-24,Gujarat,4-Wheelers,494,33379
+01-Jan-24,Odisha,4-Wheelers,150,7500
+01-Jan-24,Assam,4-Wheelers,21,7242
+01-Jan-24,Haryana,4-Wheelers,282,28776
+01-Jan-24,Chhattisgarh,4-Wheelers,91,4946
+01-Jan-24,West Bengal,4-Wheelers,184,10223
+01-Jan-24,Punjab,4-Wheelers,105,15000
+01-Jan-24,Andhra Pradesh,4-Wheelers,123,8483
+01-Jan-24,Jharkhand,4-Wheelers,29,4678
+01-Jan-24,Uttarakhand,4-Wheelers,49,5385
+01-Jan-24,Jammu and Kashmir,4-Wheelers,10,5264
+01-Jan-24,Goa,4-Wheelers,86,2331
+01-Jan-24,Chandigarh,4-Wheelers,101,1624
+01-Jan-24,Tripura,4-Wheelers,2,466
+01-Jan-24,Puducherry,4-Wheelers,10,1250
+01-Jan-24,Himachal Pradesh,4-Wheelers,13,4815
+01-Jan-24,DNH and DD,4-Wheelers,3,527
+01-Jan-24,Manipur,4-Wheelers,7,433
+01-Jan-24,Arunachal Pradesh,4-Wheelers,5,1174
+01-Feb-24,Uttar Pradesh,4-Wheelers,394,37170
+01-Feb-24,Maharashtra,4-Wheelers,1227,36302
+01-Feb-24,Karnataka,4-Wheelers,923,24812
+01-Feb-24,Tamil Nadu,4-Wheelers,595,23063
+01-Feb-24,Rajasthan,4-Wheelers,517,19149
+01-Feb-24,Bihar,4-Wheelers,71,6762
+01-Feb-24,Madhya Pradesh,4-Wheelers,146,18025
+01-Feb-24,Kerala,4-Wheelers,684,12281
+01-Feb-24,Gujarat,4-Wheelers,510,25758
+01-Feb-24,Delhi,4-Wheelers,596,17898
+01-Feb-24,Assam,4-Wheelers,24,6858
+01-Feb-24,Odisha,4-Wheelers,203,6305
+01-Feb-24,Chhattisgarh,4-Wheelers,99,4125
+01-Feb-24,Punjab,4-Wheelers,111,14051
+01-Feb-24,Andhra Pradesh,4-Wheelers,128,6125
+01-Feb-24,Haryana,4-Wheelers,312,26000
+01-Feb-24,West Bengal,4-Wheelers,185,8487
+01-Feb-24,Jharkhand,4-Wheelers,42,4667
+01-Feb-24,Uttarakhand,4-Wheelers,60,5826
+01-Feb-24,Jammu and Kashmir,4-Wheelers,24,4211
+01-Feb-24,Goa,4-Wheelers,99,1772
+01-Feb-24,Tripura,4-Wheelers,5,538
+01-Feb-24,Chandigarh,4-Wheelers,84,1321
+01-Feb-24,Puducherry,4-Wheelers,16,1177
+01-Feb-24,Himachal Pradesh,4-Wheelers,11,4584
+01-Feb-24,Manipur,4-Wheelers,7,310
+01-Feb-24,DNH and DD,4-Wheelers,5,444
+01-Feb-24,Meghalaya,4-Wheelers,4,1261
+01-Feb-24,Arunachal Pradesh,4-Wheelers,4,1184
+01-Mar-24,Maharashtra,4-Wheelers,1079,36826
+01-Mar-24,Uttar Pradesh,4-Wheelers,389,34425
+01-Mar-24,Karnataka,4-Wheelers,1482,26751
+01-Mar-24,Tamil Nadu,4-Wheelers,749,22095
+01-Mar-24,Rajasthan,4-Wheelers,493,16942
+01-Mar-24,Delhi,4-Wheelers,897,15905
+01-Mar-24,Kerala,4-Wheelers,876,13861
+01-Mar-24,Gujarat,4-Wheelers,661,25424
+01-Mar-24,Bihar,4-Wheelers,99,6972
+01-Mar-24,Madhya Pradesh,4-Wheelers,143,14743
+01-Mar-24,Andhra Pradesh,4-Wheelers,366,7838
+01-Mar-24,Assam,4-Wheelers,53,7465
+01-Mar-24,Chhattisgarh,4-Wheelers,120,4348
+01-Mar-24,Punjab,4-Wheelers,132,14348
+01-Mar-24,West Bengal,4-Wheelers,495,8089
+01-Mar-24,Haryana,4-Wheelers,305,23644
+01-Mar-24,Jharkhand,4-Wheelers,52,4483
+01-Mar-24,Goa,4-Wheelers,123,1730
+01-Mar-24,Uttarakhand,4-Wheelers,51,4812
+01-Mar-24,Jammu and Kashmir,4-Wheelers,18,4500
+01-Mar-24,Tripura,4-Wheelers,3,556
+01-Mar-24,Chandigarh,4-Wheelers,119,1294
+01-Mar-24,Puducherry,4-Wheelers,5,1042
+01-Mar-24,Meghalaya,4-Wheelers,3,1200
+01-Mar-24,Himachal Pradesh,4-Wheelers,17,4147
+01-Mar-24,DNH and DD,4-Wheelers,4,429
+01-Mar-24,Manipur,4-Wheelers,2,370
+01-Apr-21,Andhra Pradesh,2-Wheelers,436,63444
+01-Apr-21,Assam,2-Wheelers,7,30344
+01-Apr-21,Bihar,2-Wheelers,47,81056
+01-Apr-21,Chandigarh,2-Wheelers,6,1200
+01-Apr-21,Chhattisgarh,2-Wheelers,36,10274
+01-Apr-21,Delhi,2-Wheelers,272,14233
+01-Apr-21,Goa,2-Wheelers,36,3374
+01-Apr-21,Gujarat,2-Wheelers,98,49005
+01-Apr-21,Haryana,2-Wheelers,101,31078
+01-Apr-21,Himachal Pradesh,2-Wheelers,9,4360
+01-Apr-21,Jammu and Kashmir,2-Wheelers,22,6874
+01-Apr-21,Jharkhand,2-Wheelers,80,26969
+01-Apr-21,Karnataka,2-Wheelers,1549,59979
+01-Apr-21,Kerala,2-Wheelers,379,57624
+01-Apr-21,Madhya Pradesh,2-Wheelers,126,29491
+01-Apr-21,Maharashtra,2-Wheelers,428,45515
+01-Apr-21,Manipur,2-Wheelers,2,3048
+01-Apr-21,Odisha,2-Wheelers,191,36953
+01-Apr-21,Puducherry,2-Wheelers,18,2581
+01-Apr-21,Punjab,2-Wheelers,9,24348
+01-Apr-21,Rajasthan,2-Wheelers,325,48828
+01-Apr-21,Tamil Nadu,2-Wheelers,1297,107658
+01-Apr-21,Uttar Pradesh,2-Wheelers,171,137840
+01-Apr-21,Uttarakhand,2-Wheelers,34,7607
+01-Apr-21,West Bengal,2-Wheelers,9,65885
+01-May-21,Andhra Pradesh,2-Wheelers,201,41370
+01-May-21,Bihar,2-Wheelers,8,55276
+01-May-21,Chhattisgarh,2-Wheelers,6,5280
+01-May-21,Goa,2-Wheelers,27,379
+01-May-21,Gujarat,2-Wheelers,106,33419
+01-May-21,Haryana,2-Wheelers,17,7315
+01-May-21,Himachal Pradesh,2-Wheelers,4,1721
+01-May-21,Jammu and Kashmir,2-Wheelers,50,1916
+01-May-21,Jharkhand,2-Wheelers,39,21680
+01-May-21,Karnataka,2-Wheelers,140,4942
+01-May-21,Kerala,2-Wheelers,95,6675
+01-May-21,Maharashtra,2-Wheelers,189,16627
+01-May-21,Odisha,2-Wheelers,28,5900
+01-May-21,Puducherry,2-Wheelers,3,314
+01-May-21,Punjab,2-Wheelers,21,14366
+01-May-21,Rajasthan,2-Wheelers,33,18802
+01-May-21,Tamil Nadu,2-Wheelers,237,17837
+01-May-21,Uttar Pradesh,2-Wheelers,25,147458
+01-May-21,Uttarakhand,2-Wheelers,6,2957
+01-May-21,West Bengal,2-Wheelers,6,28906
+01-Jun-21,Andhra Pradesh,2-Wheelers,369,53867
+01-Jun-21,Assam,2-Wheelers,6,22586
+01-Jun-21,Bihar,2-Wheelers,67,100771
+01-Jun-21,Chandigarh,2-Wheelers,2,1314
+01-Jun-21,Chhattisgarh,2-Wheelers,138,31808
+01-Jun-21,DNH and DD,2-Wheelers,2,627
+01-Jun-21,Delhi,2-Wheelers,205,22186
+01-Jun-21,Goa,2-Wheelers,17,1533
+01-Jun-21,Gujarat,2-Wheelers,207,59121
+01-Jun-21,Haryana,2-Wheelers,74,31957
+01-Jun-21,Himachal Pradesh,2-Wheelers,25,5098
+01-Jun-21,Jammu and Kashmir,2-Wheelers,87,8677
+01-Jun-21,Jharkhand,2-Wheelers,42,33533
+01-Jun-21,Karnataka,2-Wheelers,560,19402
+01-Jun-21,Kerala,2-Wheelers,184,17828
+01-Jun-21,Madhya Pradesh,2-Wheelers,227,90928
+01-Jun-21,Maharashtra,2-Wheelers,891,75098
+01-Jun-21,Odisha,2-Wheelers,147,23193
+01-Jun-21,Puducherry,2-Wheelers,31,2559
+01-Jun-21,Punjab,2-Wheelers,71,23393
+01-Jun-21,Rajasthan,2-Wheelers,515,59809
+01-Jun-21,Tamil Nadu,2-Wheelers,660,45197
+01-Jun-21,Uttar Pradesh,2-Wheelers,92,264409
+01-Jun-21,Uttarakhand,2-Wheelers,37,9766
+01-Jun-21,West Bengal,2-Wheelers,12,67354
+01-Jul-21,Andhra Pradesh,2-Wheelers,811,58165
+01-Jul-21,Assam,2-Wheelers,22,22521
+01-Jul-21,Bihar,2-Wheelers,189,70562
+01-Jul-21,Chandigarh,2-Wheelers,11,1286
+01-Jul-21,Chhattisgarh,2-Wheelers,253,30642
+01-Jul-21,DNH and DD,2-Wheelers,3,704
+01-Jul-21,Delhi,2-Wheelers,818,24955
+01-Jul-21,Goa,2-Wheelers,64,1694
+01-Jul-21,Gujarat,2-Wheelers,358,68641
+01-Jul-21,Haryana,2-Wheelers,134,24476
+01-Jul-21,Himachal Pradesh,2-Wheelers,18,6543
+01-Jul-21,Jammu and Kashmir,2-Wheelers,203,10104
+01-Jul-21,Jharkhand,2-Wheelers,108,29512
+01-Jul-21,Karnataka,2-Wheelers,3384,84001
+01-Jul-21,Kerala,2-Wheelers,456,41455
+01-Jul-21,Madhya Pradesh,2-Wheelers,469,99094
+01-Jul-21,Maharashtra,2-Wheelers,2101,146083
+01-Jul-21,Odisha,2-Wheelers,324,38080
+01-Jul-21,Puducherry,2-Wheelers,38,3592
+01-Jul-21,Punjab,2-Wheelers,318,27261
+01-Jul-21,Rajasthan,2-Wheelers,1378,67308
+01-Jul-21,Tamil Nadu,2-Wheelers,2801,122808
+01-Jul-21,Uttar Pradesh,2-Wheelers,303,215180
+01-Jul-21,Uttarakhand,2-Wheelers,76,12268
+01-Jul-21,West Bengal,2-Wheelers,36,76665
+01-Aug-21,Andhra Pradesh,2-Wheelers,666,58473
+01-Aug-21,Assam,2-Wheelers,26,25097
+01-Aug-21,Bihar,2-Wheelers,191,54618
+01-Aug-21,Chandigarh,2-Wheelers,19,1380
+01-Aug-21,Chhattisgarh,2-Wheelers,238,27491
+01-Aug-21,DNH and DD,2-Wheelers,2,584
+01-Aug-21,Delhi,2-Wheelers,995,26069
+01-Aug-21,Goa,2-Wheelers,22,2316
+01-Aug-21,Gujarat,2-Wheelers,584,54721
+01-Aug-21,Haryana,2-Wheelers,441,30342
+01-Aug-21,Himachal Pradesh,2-Wheelers,32,5430
+01-Aug-21,Jammu and Kashmir,2-Wheelers,122,9978
+01-Aug-21,Jharkhand,2-Wheelers,137,26589
+01-Aug-21,Karnataka,2-Wheelers,3319,79751
+01-Aug-21,Kerala,2-Wheelers,598,52507
+01-Aug-21,Madhya Pradesh,2-Wheelers,457,67859
+01-Aug-21,Maharashtra,2-Wheelers,2419,119076
+01-Aug-21,Odisha,2-Wheelers,485,33821
+01-Aug-21,Puducherry,2-Wheelers,34,3496
+01-Aug-21,Punjab,2-Wheelers,342,27376
+01-Aug-21,Rajasthan,2-Wheelers,1451,57021
+01-Aug-21,Tamil Nadu,2-Wheelers,2745,109440
+01-Aug-21,Uttar Pradesh,2-Wheelers,531,146734
+01-Aug-21,Uttarakhand,2-Wheelers,114,11192
+01-Aug-21,West Bengal,2-Wheelers,80,63613
+01-Sep-21,Andhra Pradesh,2-Wheelers,766,51764
+01-Sep-21,Assam,2-Wheelers,38,24438
+01-Sep-21,Bihar,2-Wheelers,475,48021
+01-Sep-21,Chandigarh,2-Wheelers,25,1162
+01-Sep-21,Chhattisgarh,2-Wheelers,244,24790
+01-Sep-21,Delhi,2-Wheelers,809,17347
+01-Sep-21,Goa,2-Wheelers,87,3081
+01-Sep-21,Gujarat,2-Wheelers,959,71820
+01-Sep-21,Haryana,2-Wheelers,691,32590
+01-Sep-21,Himachal Pradesh,2-Wheelers,33,4975
+01-Sep-21,Jammu and Kashmir,2-Wheelers,157,7354
+01-Sep-21,Jharkhand,2-Wheelers,149,24528
+01-Sep-21,Karnataka,2-Wheelers,3539,80292
+01-Sep-21,Kerala,2-Wheelers,789,48245
+01-Sep-21,Madhya Pradesh,2-Wheelers,590,65166
+01-Sep-21,Maharashtra,2-Wheelers,2166,92351
+01-Sep-21,Odisha,2-Wheelers,490,28355
+01-Sep-21,Puducherry,2-Wheelers,48,3211
+01-Sep-21,Punjab,2-Wheelers,487,24819
+01-Sep-21,Rajasthan,2-Wheelers,1625,48502
+01-Sep-21,Tamil Nadu,2-Wheelers,2880,108477
+01-Sep-21,Uttar Pradesh,2-Wheelers,730,132962
+01-Sep-21,Uttarakhand,2-Wheelers,169,9926
+01-Sep-21,West Bengal,2-Wheelers,84,65430
+01-Oct-21,Andhra Pradesh,2-Wheelers,993,88110
+01-Oct-21,Assam,2-Wheelers,28,32155
+01-Oct-21,Bihar,2-Wheelers,470,50679
+01-Oct-21,Chandigarh,2-Wheelers,18,1792
+01-Oct-21,Chhattisgarh,2-Wheelers,301,33464
+01-Oct-21,Delhi,2-Wheelers,995,26087
+01-Oct-21,Goa,2-Wheelers,163,3914
+01-Oct-21,Gujarat,2-Wheelers,1460,84700
+01-Oct-21,Haryana,2-Wheelers,505,26891
+01-Oct-21,Himachal Pradesh,2-Wheelers,29,4651
+01-Oct-21,Jammu and Kashmir,2-Wheelers,199,8601
+01-Oct-21,Jharkhand,2-Wheelers,253,28877
+01-Oct-21,Karnataka,2-Wheelers,3709,76401
+01-Oct-21,Kerala,2-Wheelers,833,42377
+01-Oct-21,Ladakh,2-Wheelers,6,18
+01-Oct-21,Madhya Pradesh,2-Wheelers,545,52075
+01-Oct-21,Maharashtra,2-Wheelers,3554,131332
+01-Oct-21,Manipur,2-Wheelers,6,2098
+01-Oct-21,Odisha,2-Wheelers,948,52708
+01-Oct-21,Puducherry,2-Wheelers,31,2839
+01-Oct-21,Punjab,2-Wheelers,416,29940
+01-Oct-21,Rajasthan,2-Wheelers,1602,65626
+01-Oct-21,Tamil Nadu,2-Wheelers,2530,85674
+01-Oct-21,Uttar Pradesh,2-Wheelers,1022,129924
+01-Oct-21,Uttarakhand,2-Wheelers,129,12826
+01-Oct-21,West Bengal,2-Wheelers,67,53475
+01-Nov-21,Andhra Pradesh,2-Wheelers,1114,64835
+01-Nov-21,Assam,2-Wheelers,120,29586
+01-Nov-21,Bihar,2-Wheelers,604,107209
+01-Nov-21,Chandigarh,2-Wheelers,79,2083
+01-Nov-21,Chhattisgarh,2-Wheelers,509,63099
+01-Nov-21,Delhi,2-Wheelers,1269,37710
+01-Nov-21,Goa,2-Wheelers,178,4104
+01-Nov-21,Gujarat,2-Wheelers,1569,110759
+01-Nov-21,Haryana,2-Wheelers,871,43957
+01-Nov-21,Himachal Pradesh,2-Wheelers,61,7398
+01-Nov-21,Jammu and Kashmir,2-Wheelers,64,8083
+01-Nov-21,Jharkhand,2-Wheelers,370,51355
+01-Nov-21,Karnataka,2-Wheelers,3430,74444
+01-Nov-21,Kerala,2-Wheelers,948,43718
+01-Nov-21,Madhya Pradesh,2-Wheelers,940,99568
+01-Nov-21,Maharashtra,2-Wheelers,3684,168326
+01-Nov-21,Manipur,2-Wheelers,3,2490
+01-Nov-21,Odisha,2-Wheelers,843,41128
+01-Nov-21,Puducherry,2-Wheelers,47,2889
+01-Nov-21,Punjab,2-Wheelers,803,46549
+01-Nov-21,Rajasthan,2-Wheelers,2265,141368
+01-Nov-21,Tamil Nadu,2-Wheelers,2844,111203
+01-Nov-21,Uttar Pradesh,2-Wheelers,1347,225370
+01-Nov-21,Uttarakhand,2-Wheelers,262,20977
+01-Nov-21,West Bengal,2-Wheelers,309,79819
+01-Dec-21,Andhra Pradesh,2-Wheelers,985,42446
+01-Dec-21,Assam,2-Wheelers,93,28392
+01-Dec-21,Bihar,2-Wheelers,467,63454
+01-Dec-21,Chandigarh,2-Wheelers,30,1252
+01-Dec-21,Chhattisgarh,2-Wheelers,500,24772
+01-Dec-21,DNH and DD,2-Wheelers,4,1100
+01-Dec-21,Delhi,2-Wheelers,1258,18687
+01-Dec-21,Goa,2-Wheelers,153,3468
+01-Dec-21,Gujarat,2-Wheelers,2111,92992
+01-Dec-21,Haryana,2-Wheelers,670,40694
+01-Dec-21,Himachal Pradesh,2-Wheelers,73,6044
+01-Dec-21,Jammu and Kashmir,2-Wheelers,110,4076
+01-Dec-21,Jharkhand,2-Wheelers,293,26077
+01-Dec-21,Karnataka,2-Wheelers,4381,83147
+01-Dec-21,Kerala,2-Wheelers,1107,43996
+01-Dec-21,Madhya Pradesh,2-Wheelers,901,110877
+01-Dec-21,Maharashtra,2-Wheelers,4775,134502
+01-Dec-21,Manipur,2-Wheelers,4,3649
+01-Dec-21,Odisha,2-Wheelers,939,26693
+01-Dec-21,Puducherry,2-Wheelers,81,2589
+01-Dec-21,Punjab,2-Wheelers,450,35287
+01-Dec-21,Rajasthan,2-Wheelers,2119,61061
+01-Dec-21,Tamil Nadu,2-Wheelers,3236,83485
+01-Dec-21,Uttar Pradesh,2-Wheelers,1371,268713
+01-Dec-21,Uttarakhand,2-Wheelers,229,12632
+01-Dec-21,West Bengal,2-Wheelers,285,73989
+01-Jan-22,Andhra Pradesh,2-Wheelers,1671,59712
+01-Jan-22,Assam,2-Wheelers,92,26097
+01-Jan-22,Bihar,2-Wheelers,409,51380
+01-Jan-22,Chandigarh,2-Wheelers,19,1291
+01-Jan-22,Chhattisgarh,2-Wheelers,595,31989
+01-Jan-22,DNH and DD,2-Wheelers,6,758
+01-Jan-22,Delhi,2-Wheelers,1762,24615
+01-Jan-22,Goa,2-Wheelers,194,3015
+01-Jan-22,Gujarat,2-Wheelers,2191,58107
+01-Jan-22,Haryana,2-Wheelers,597,28339
+01-Jan-22,Himachal Pradesh,2-Wheelers,22,3490
+01-Jan-22,Jammu and Kashmir,2-Wheelers,76,3561
+01-Jan-22,Jharkhand,2-Wheelers,240,24613
+01-Jan-22,Karnataka,2-Wheelers,4386,74134
+01-Jan-22,Kerala,2-Wheelers,1399,45699
+01-Jan-22,Ladakh,2-Wheelers,6,20
+01-Jan-22,Madhya Pradesh,2-Wheelers,862,75043
+01-Jan-22,Maharashtra,2-Wheelers,5138,136937
+01-Jan-22,Manipur,2-Wheelers,5,3660
+01-Jan-22,Odisha,2-Wheelers,1333,45749
+01-Jan-22,Puducherry,2-Wheelers,94,4044
+01-Jan-22,Punjab,2-Wheelers,552,28295
+01-Jan-22,Rajasthan,2-Wheelers,2359,50153
+01-Jan-22,Tamil Nadu,2-Wheelers,4233,124399
+01-Jan-22,Tripura,2-Wheelers,5,3043
+01-Jan-22,Uttar Pradesh,2-Wheelers,1322,168934
+01-Jan-22,Uttarakhand,2-Wheelers,184,10413
+01-Jan-22,West Bengal,2-Wheelers,370,61071
+01-Feb-22,Andhra Pradesh,2-Wheelers,2284,52013
+01-Feb-22,Assam,2-Wheelers,108,25414
+01-Feb-22,Bihar,2-Wheelers,495,59758
+01-Feb-22,Chandigarh,2-Wheelers,22,1184
+01-Feb-22,Chhattisgarh,2-Wheelers,635,28508
+01-Feb-22,DNH and DD,2-Wheelers,4,817
+01-Feb-22,Delhi,2-Wheelers,2384,25413
+01-Feb-22,Goa,2-Wheelers,267,3248
+01-Feb-22,Gujarat,2-Wheelers,2613,68658
+01-Feb-22,Haryana,2-Wheelers,677,25667
+01-Feb-22,Himachal Pradesh,2-Wheelers,57,4041
+01-Feb-22,Jammu and Kashmir,2-Wheelers,101,4836
+01-Feb-22,Jharkhand,2-Wheelers,338,27174
+01-Feb-22,Karnataka,2-Wheelers,5593,75612
+01-Feb-22,Kerala,2-Wheelers,1737,41273
+01-Feb-22,Madhya Pradesh,2-Wheelers,974,69322
+01-Feb-22,Maharashtra,2-Wheelers,6871,116043
+01-Feb-22,Manipur,2-Wheelers,3,4773
+01-Feb-22,Odisha,2-Wheelers,1266,41856
+01-Feb-22,Puducherry,2-Wheelers,117,3410
+01-Feb-22,Punjab,2-Wheelers,296,24506
+01-Feb-22,Rajasthan,2-Wheelers,2563,56168
+01-Feb-22,Tamil Nadu,2-Wheelers,4506,108851
+01-Feb-22,Tripura,2-Wheelers,3,2705
+01-Feb-22,Uttar Pradesh,2-Wheelers,1202,163699
+01-Feb-22,Uttarakhand,2-Wheelers,223,9283
+01-Feb-22,West Bengal,2-Wheelers,383,56937
+01-Mar-22,Andhra Pradesh,2-Wheelers,3169,51588
+01-Mar-22,Assam,2-Wheelers,179,29698
+01-Mar-22,Bihar,2-Wheelers,1328,85165
+01-Mar-22,Chandigarh,2-Wheelers,55,1883
+01-Mar-22,Chhattisgarh,2-Wheelers,959,31244
+01-Mar-22,DNH and DD,2-Wheelers,5,757
+01-Mar-22,Delhi,2-Wheelers,3491,28871
+01-Mar-22,Goa,2-Wheelers,235,4381
+01-Mar-22,Gujarat,2-Wheelers,4507,79333
+01-Mar-22,Haryana,2-Wheelers,1025,30295
+01-Mar-22,Himachal Pradesh,2-Wheelers,61,3565
+01-Mar-22,Jammu and Kashmir,2-Wheelers,227,5680
+01-Mar-22,Jharkhand,2-Wheelers,607,38435
+01-Mar-22,Karnataka,2-Wheelers,7288,91537
+01-Mar-22,Kerala,2-Wheelers,2880,50610
+01-Mar-22,Madhya Pradesh,2-Wheelers,1580,76256
+01-Mar-22,Maharashtra,2-Wheelers,9687,130070
+01-Mar-22,Manipur,2-Wheelers,2,3508
+01-Mar-22,Odisha,2-Wheelers,2363,47801
+01-Mar-22,Puducherry,2-Wheelers,181,3913
+01-Mar-22,Punjab,2-Wheelers,716,31497
+01-Mar-22,Rajasthan,2-Wheelers,3080,60106
+01-Mar-22,Tamil Nadu,2-Wheelers,7708,124272
+01-Mar-22,Tripura,2-Wheelers,18,3504
+01-Mar-22,Uttar Pradesh,2-Wheelers,1986,180927
+01-Mar-22,Uttarakhand,2-Wheelers,435,11692
+01-Mar-22,West Bengal,2-Wheelers,626,73783
+01-Apr-22,Andhra Pradesh,2-Wheelers,2745,56529
+01-Apr-22,Assam,2-Wheelers,168,26813
+01-Apr-22,Bihar,2-Wheelers,475,82418
+01-Apr-22,Chandigarh,2-Wheelers,63,1881
+01-Apr-22,Chhattisgarh,2-Wheelers,1397,30843
+01-Apr-22,DNH and DD,2-Wheelers,4,804
+01-Apr-22,Delhi,2-Wheelers,2832,32226
+01-Apr-22,Goa,2-Wheelers,377,3817
+01-Apr-22,Gujarat,2-Wheelers,6695,88648
+01-Apr-22,Haryana,2-Wheelers,1215,30558
+01-Apr-22,Himachal Pradesh,2-Wheelers,97,4637
+01-Apr-22,Jammu and Kashmir,2-Wheelers,125,8306
+01-Apr-22,Jharkhand,2-Wheelers,450,35590
+01-Apr-22,Karnataka,2-Wheelers,8814,100400
+01-Apr-22,Kerala,2-Wheelers,2908,41859
+01-Apr-22,Madhya Pradesh,2-Wheelers,1337,75144
+01-Apr-22,Maharashtra,2-Wheelers,7375,135969
+01-Apr-22,Meghalaya,2-Wheelers,5,1472
+01-Apr-22,Nagaland,2-Wheelers,2,444
+01-Apr-22,Odisha,2-Wheelers,2261,44330
+01-Apr-22,Puducherry,2-Wheelers,82,3044
+01-Apr-22,Punjab,2-Wheelers,817,29934
+01-Apr-22,Rajasthan,2-Wheelers,3771,70039
+01-Apr-22,Tamil Nadu,2-Wheelers,5425,106643
+01-Apr-22,Tripura,2-Wheelers,20,2797
+01-Apr-22,Uttar Pradesh,2-Wheelers,2397,225079
+01-Apr-22,Uttarakhand,2-Wheelers,602,12989
+01-Apr-22,West Bengal,2-Wheelers,815,68909
+01-May-22,Andhra Pradesh,2-Wheelers,1615,48041
+01-May-22,Assam,2-Wheelers,112,28739
+01-May-22,Bihar,2-Wheelers,458,113034
+01-May-22,Chandigarh,2-Wheelers,44,1797
+01-May-22,Chhattisgarh,2-Wheelers,834,28821
+01-May-22,DNH and DD,2-Wheelers,6,790
+01-May-22,Delhi,2-Wheelers,1760,28897
+01-May-22,Goa,2-Wheelers,453,3338
+01-May-22,Gujarat,2-Wheelers,4408,68621
+01-May-22,Haryana,2-Wheelers,1178,32009
+01-May-22,Himachal Pradesh,2-Wheelers,73,5131
+01-May-22,Jammu and Kashmir,2-Wheelers,124,9505
+01-May-22,Jharkhand,2-Wheelers,431,39317
+01-May-22,Karnataka,2-Wheelers,5947,84301
+01-May-22,Kerala,2-Wheelers,2373,40514
+01-May-22,Madhya Pradesh,2-Wheelers,1310,94602
+01-May-22,Maharashtra,2-Wheelers,8914,123203
+01-May-22,Manipur,2-Wheelers,2,2443
+01-May-22,Odisha,2-Wheelers,1714,38324
+01-May-22,Puducherry,2-Wheelers,65,3122
+01-May-22,Punjab,2-Wheelers,493,30377
+01-May-22,Rajasthan,2-Wheelers,3701,73803
+01-May-22,Tamil Nadu,2-Wheelers,3628,102565
+01-May-22,Tripura,2-Wheelers,14,2768
+01-May-22,Uttar Pradesh,2-Wheelers,1695,273962
+01-May-22,Uttarakhand,2-Wheelers,377,12930
+01-May-22,West Bengal,2-Wheelers,683,68721
+01-Jun-22,Andhra Pradesh,2-Wheelers,1733,37538
+01-Jun-22,Assam,2-Wheelers,101,21695
+01-Jun-22,Bihar,2-Wheelers,716,79768
+01-Jun-22,Chandigarh,2-Wheelers,63,1808
+01-Jun-22,Chhattisgarh,2-Wheelers,1038,28027
+01-Jun-22,Delhi,2-Wheelers,2755,27696
+01-Jun-22,Goa,2-Wheelers,365,3042
+01-Jun-22,Gujarat,2-Wheelers,5322,83549
+01-Jun-22,Haryana,2-Wheelers,966,30435
+01-Jun-22,Himachal Pradesh,2-Wheelers,104,5610
+01-Jun-22,Jammu and Kashmir,2-Wheelers,159,8064
+01-Jun-22,Jharkhand,2-Wheelers,461,32650
+01-Jun-22,Karnataka,2-Wheelers,6800,91707
+01-Jun-22,Kerala,2-Wheelers,2568,44015
+01-Jun-22,Ladakh,2-Wheelers,14,590
+01-Jun-22,Madhya Pradesh,2-Wheelers,1434,83413
+01-Jun-22,Maharashtra,2-Wheelers,7880,115725
+01-Jun-22,Manipur,2-Wheelers,13,3391
+01-Jun-22,Meghalaya,2-Wheelers,2,1291
+01-Jun-22,Mizoram,2-Wheelers,2,1750
+01-Jun-22,Odisha,2-Wheelers,1693,39143
+01-Jun-22,Puducherry,2-Wheelers,85,3331
+01-Jun-22,Punjab,2-Wheelers,514,28256
+01-Jun-22,Rajasthan,2-Wheelers,3427,58281
+01-Jun-22,Tamil Nadu,2-Wheelers,3749,110740
+01-Jun-22,Tripura,2-Wheelers,21,2761
+01-Jun-22,Uttar Pradesh,2-Wheelers,1361,198411
+01-Jun-22,Uttarakhand,2-Wheelers,374,13121
+01-Jun-22,West Bengal,2-Wheelers,660,67878
+01-Jul-22,Andhra Pradesh,2-Wheelers,1921,42632
+01-Jul-22,Assam,2-Wheelers,120,26803
+01-Jul-22,Bihar,2-Wheelers,638,62773
+01-Jul-22,Chandigarh,2-Wheelers,58,2086
+01-Jul-22,Chhattisgarh,2-Wheelers,1309,26466
+01-Jul-22,DNH and DD,2-Wheelers,9,735
+01-Jul-22,Delhi,2-Wheelers,2658,30654
+01-Jul-22,Goa,2-Wheelers,579,2801
+01-Jul-22,Gujarat,2-Wheelers,5592,83341
+01-Jul-22,Haryana,2-Wheelers,710,30657
+01-Jul-22,Himachal Pradesh,2-Wheelers,92,5377
+01-Jul-22,Jammu and Kashmir,2-Wheelers,316,8717
+01-Jul-22,Jharkhand,2-Wheelers,589,32122
+01-Jul-22,Karnataka,2-Wheelers,5689,77333
+01-Jul-22,Kerala,2-Wheelers,1964,37691
+01-Jul-22,Madhya Pradesh,2-Wheelers,1722,81579
+01-Jul-22,Maharashtra,2-Wheelers,8446,111895
+01-Jul-22,Manipur,2-Wheelers,21,4103
+01-Jul-22,Meghalaya,2-Wheelers,3,1363
+01-Jul-22,Odisha,2-Wheelers,1816,32549
+01-Jul-22,Puducherry,2-Wheelers,71,3298
+01-Jul-22,Punjab,2-Wheelers,603,27082
+01-Jul-22,Rajasthan,2-Wheelers,4574,63752
+01-Jul-22,Tamil Nadu,2-Wheelers,4180,103800
+01-Jul-22,Tripura,2-Wheelers,2,2632
+01-Jul-22,Uttar Pradesh,2-Wheelers,1828,153826
+01-Jul-22,Uttarakhand,2-Wheelers,404,12603
+01-Jul-22,West Bengal,2-Wheelers,689,62610
+01-Aug-22,Andhra Pradesh,2-Wheelers,1898,54365
+01-Aug-22,Assam,2-Wheelers,202,27466
+01-Aug-22,Bihar,2-Wheelers,849,64565
+01-Aug-22,Chandigarh,2-Wheelers,59,1896
+01-Aug-22,Chhattisgarh,2-Wheelers,1360,23146
+01-Aug-22,DNH and DD,2-Wheelers,6,742
+01-Aug-22,Delhi,2-Wheelers,3259,31869
+01-Aug-22,Goa,2-Wheelers,303,4503
+01-Aug-22,Gujarat,2-Wheelers,5059,74982
+01-Aug-22,Haryana,2-Wheelers,915,33336
+01-Aug-22,Himachal Pradesh,2-Wheelers,59,5281
+01-Aug-22,Jammu and Kashmir,2-Wheelers,182,9131
+01-Aug-22,Jharkhand,2-Wheelers,561,25332
+01-Aug-22,Karnataka,2-Wheelers,7476,88611
+01-Aug-22,Kerala,2-Wheelers,3069,50954
+01-Aug-22,Madhya Pradesh,2-Wheelers,1931,98165
+01-Aug-22,Maharashtra,2-Wheelers,9723,118886
+01-Aug-22,Manipur,2-Wheelers,8,3647
+01-Aug-22,Meghalaya,2-Wheelers,2,1734
+01-Aug-22,Mizoram,2-Wheelers,6,2062
+01-Aug-22,Odisha,2-Wheelers,2007,30540
+01-Aug-22,Puducherry,2-Wheelers,91,3810
+01-Aug-22,Punjab,2-Wheelers,645,32591
+01-Aug-22,Rajasthan,2-Wheelers,4159,60191
+01-Aug-22,Tamil Nadu,2-Wheelers,5306,120312
+01-Aug-22,Tripura,2-Wheelers,14,2643
+01-Aug-22,Uttar Pradesh,2-Wheelers,1920,131703
+01-Aug-22,Uttarakhand,2-Wheelers,494,12711
+01-Aug-22,West Bengal,2-Wheelers,663,62200
+01-Sep-22,Andhra Pradesh,2-Wheelers,2239,52804
+01-Sep-22,Assam,2-Wheelers,200,31729
+01-Sep-22,Bihar,2-Wheelers,951,54364
+01-Sep-22,Chandigarh,2-Wheelers,70,1929
+01-Sep-22,Chhattisgarh,2-Wheelers,1190,23465
+01-Sep-22,DNH and DD,2-Wheelers,8,629
+01-Sep-22,Delhi,2-Wheelers,2301,25409
+01-Sep-22,Goa,2-Wheelers,400,4078
+01-Sep-22,Gujarat,2-Wheelers,5333,77920
+01-Sep-22,Haryana,2-Wheelers,848,25832
+01-Sep-22,Himachal Pradesh,2-Wheelers,67,4101
+01-Sep-22,Jammu and Kashmir,2-Wheelers,220,8320
+01-Sep-22,Jharkhand,2-Wheelers,498,23758
+01-Sep-22,Karnataka,2-Wheelers,7616,87981
+01-Sep-22,Kerala,2-Wheelers,3100,53877
+01-Sep-22,Madhya Pradesh,2-Wheelers,1898,53245
+01-Sep-22,Maharashtra,2-Wheelers,10730,122642
+01-Sep-22,Mizoram,2-Wheelers,4,1568
+01-Sep-22,Odisha,2-Wheelers,2197,36139
+01-Sep-22,Puducherry,2-Wheelers,114,3772
+01-Sep-22,Punjab,2-Wheelers,590,27407
+01-Sep-22,Rajasthan,2-Wheelers,4677,53951
+01-Sep-22,Tamil Nadu,2-Wheelers,5112,121791
+01-Sep-22,Tripura,2-Wheelers,17,3842
+01-Sep-22,Uttar Pradesh,2-Wheelers,1787,97293
+01-Sep-22,Uttarakhand,2-Wheelers,386,9325
+01-Sep-22,West Bengal,2-Wheelers,727,64255
+01-Oct-22,Andhra Pradesh,2-Wheelers,2568,74374
+01-Oct-22,Assam,2-Wheelers,194,38033
+01-Oct-22,Bihar,2-Wheelers,1377,88895
+01-Oct-22,Chandigarh,2-Wheelers,118,3103
+01-Oct-22,Chhattisgarh,2-Wheelers,2471,57951
+01-Oct-22,DNH and DD,2-Wheelers,5,619
+01-Oct-22,Delhi,2-Wheelers,3699,50702
+01-Oct-22,Goa,2-Wheelers,704,6241
+01-Oct-22,Gujarat,2-Wheelers,6635,115540
+01-Oct-22,Haryana,2-Wheelers,1313,38921
+01-Oct-22,Himachal Pradesh,2-Wheelers,79,5548
+01-Oct-22,Jammu and Kashmir,2-Wheelers,258,9184
+01-Oct-22,Jharkhand,2-Wheelers,949,50073
+01-Oct-22,Karnataka,2-Wheelers,9706,117015
+01-Oct-22,Kerala,2-Wheelers,3629,44021
+01-Oct-22,Madhya Pradesh,2-Wheelers,3616,137210
+01-Oct-22,Maharashtra,2-Wheelers,15999,189870
+01-Oct-22,Manipur,2-Wheelers,4,2532
+01-Oct-22,Meghalaya,2-Wheelers,5,1558
+01-Oct-22,Mizoram,2-Wheelers,3,1638
+01-Oct-22,Odisha,2-Wheelers,3695,72161
+01-Oct-22,Puducherry,2-Wheelers,180,3564
+01-Oct-22,Punjab,2-Wheelers,707,37265
+01-Oct-22,Rajasthan,2-Wheelers,9455,133585
+01-Oct-22,Tamil Nadu,2-Wheelers,5530,111507
+01-Oct-22,Tripura,2-Wheelers,13,3431
+01-Oct-22,Uttar Pradesh,2-Wheelers,3003,258110
+01-Oct-22,Uttarakhand,2-Wheelers,797,19532
+01-Oct-22,West Bengal,2-Wheelers,538,50676
+01-Nov-22,Andaman & Nicobar Island,2-Wheelers,6,405
+01-Nov-22,Andhra Pradesh,2-Wheelers,2742,69695
+01-Nov-22,Assam,2-Wheelers,176,32542
+01-Nov-22,Bihar,2-Wheelers,1253,110759
+01-Nov-22,Chandigarh,2-Wheelers,163,1727
+01-Nov-22,Chhattisgarh,2-Wheelers,2725,42575
+01-Nov-22,DNH and DD,2-Wheelers,14,1290
+01-Nov-22,Delhi,2-Wheelers,3869,41689
+01-Nov-22,Goa,2-Wheelers,587,5285
+01-Nov-22,Gujarat,2-Wheelers,8322,165828
+01-Nov-22,Haryana,2-Wheelers,1369,58469
+01-Nov-22,Himachal Pradesh,2-Wheelers,134,9181
+01-Nov-22,Jammu and Kashmir,2-Wheelers,194,4656
+01-Nov-22,Jharkhand,2-Wheelers,953,40248
+01-Nov-22,Karnataka,2-Wheelers,9851,109695
+01-Nov-22,Kerala,2-Wheelers,3698,40561
+01-Nov-22,Madhya Pradesh,2-Wheelers,3426,130285
+01-Nov-22,Maharashtra,2-Wheelers,13718,204988
+01-Nov-22,Manipur,2-Wheelers,2,5529
+01-Nov-22,Meghalaya,2-Wheelers,3,1438
+01-Nov-22,Mizoram,2-Wheelers,8,1542
+01-Nov-22,Odisha,2-Wheelers,2997,38593
+01-Nov-22,Puducherry,2-Wheelers,153,3002
+01-Nov-22,Punjab,2-Wheelers,1042,46873
+01-Nov-22,Rajasthan,2-Wheelers,7306,158463
+01-Nov-22,Tamil Nadu,2-Wheelers,7258,120109
+01-Nov-22,Tripura,2-Wheelers,12,3427
+01-Nov-22,Uttar Pradesh,2-Wheelers,2746,279169
+01-Nov-22,Uttarakhand,2-Wheelers,839,25037
+01-Nov-22,West Bengal,2-Wheelers,1209,100516
+01-Dec-22,Andaman & Nicobar Island,2-Wheelers,10,397
+01-Dec-22,Andhra Pradesh,2-Wheelers,2718,47327
+01-Dec-22,Assam,2-Wheelers,250,34737
+01-Dec-22,Bihar,2-Wheelers,987,60432
+01-Dec-22,Chandigarh,2-Wheelers,123,1454
+01-Dec-22,Chhattisgarh,2-Wheelers,1883,26359
+01-Dec-22,DNH and DD,2-Wheelers,19,1112
+01-Dec-22,Delhi,2-Wheelers,3826,21773
+01-Dec-22,Goa,2-Wheelers,528,4983
+01-Dec-22,Gujarat,2-Wheelers,7906,107138
+01-Dec-22,Haryana,2-Wheelers,885,37571
+01-Dec-22,Himachal Pradesh,2-Wheelers,100,6751
+01-Dec-22,Jammu and Kashmir,2-Wheelers,150,3943
+01-Dec-22,Jharkhand,2-Wheelers,653,27130
+01-Dec-22,Karnataka,2-Wheelers,7750,75110
+01-Dec-22,Kerala,2-Wheelers,4112,40445
+01-Dec-22,Madhya Pradesh,2-Wheelers,2328,64980
+01-Dec-22,Maharashtra,2-Wheelers,13076,136534
+01-Dec-22,Manipur,2-Wheelers,63,4150
+01-Dec-22,Mizoram,2-Wheelers,11,1792
+01-Dec-22,Odisha,2-Wheelers,2379,38217
+01-Dec-22,Puducherry,2-Wheelers,177,2396
+01-Dec-22,Punjab,2-Wheelers,635,35992
+01-Dec-22,Rajasthan,2-Wheelers,5060,57108
+01-Dec-22,Tamil Nadu,2-Wheelers,4991,77848
+01-Dec-22,Tripura,2-Wheelers,57,3393
+01-Dec-22,Uttar Pradesh,2-Wheelers,2334,134747
+01-Dec-22,Uttarakhand,2-Wheelers,581,10627
+01-Dec-22,West Bengal,2-Wheelers,1047,69018
+01-Jan-23,Andhra Pradesh,2-Wheelers,2680,49537
+01-Jan-23,Assam,2-Wheelers,142,41897
+01-Jan-23,Bihar,2-Wheelers,987,63994
+01-Jan-23,Chandigarh,2-Wheelers,172,1977
+01-Jan-23,Chhattisgarh,2-Wheelers,1923,35000
+01-Jan-23,DNH and DD,2-Wheelers,9,698
+01-Jan-23,Delhi,2-Wheelers,3285,35973
+01-Jan-23,Goa,2-Wheelers,662,4457
+01-Jan-23,Gujarat,2-Wheelers,5873,70897
+01-Jan-23,Haryana,2-Wheelers,706,29990
+01-Jan-23,Himachal Pradesh,2-Wheelers,78,4421
+01-Jan-23,Jammu and Kashmir,2-Wheelers,115,3934
+01-Jan-23,Jharkhand,2-Wheelers,655,27267
+01-Jan-23,Karnataka,2-Wheelers,9969,94898
+01-Jan-23,Kerala,2-Wheelers,4667,43110
+01-Jan-23,Madhya Pradesh,2-Wheelers,2443,80312
+01-Jan-23,Maharashtra,2-Wheelers,13802,148279
+01-Jan-23,Manipur,2-Wheelers,7,3158
+01-Jan-23,Meghalaya,2-Wheelers,4,1372
+01-Jan-23,Mizoram,2-Wheelers,10,1599
+01-Jan-23,Odisha,2-Wheelers,2533,47973
+01-Jan-23,Puducherry,2-Wheelers,197,4395
+01-Jan-23,Punjab,2-Wheelers,590,33117
+01-Jan-23,Rajasthan,2-Wheelers,4624,62966
+01-Jan-23,Tamil Nadu,2-Wheelers,5505,135769
+01-Jan-23,Tripura,2-Wheelers,8,2766
+01-Jan-23,Uttar Pradesh,2-Wheelers,1952,171721
+01-Jan-23,Uttarakhand,2-Wheelers,447,12862
+01-Jan-23,West Bengal,2-Wheelers,632,52431
+01-Feb-23,Andhra Pradesh,2-Wheelers,2907,51810
+01-Feb-23,Assam,2-Wheelers,190,36795
+01-Feb-23,Bihar,2-Wheelers,911,77926
+01-Feb-23,Chandigarh,2-Wheelers,216,955
+01-Feb-23,Chhattisgarh,2-Wheelers,1874,30804
+01-Feb-23,DNH and DD,2-Wheelers,16,777
+01-Feb-23,Delhi,2-Wheelers,2800,29396
+01-Feb-23,Goa,2-Wheelers,628,3919
+01-Feb-23,Gujarat,2-Wheelers,6757,85424
+01-Feb-23,Haryana,2-Wheelers,702,31279
+01-Feb-23,Himachal Pradesh,2-Wheelers,65,4784
+01-Feb-23,Jammu and Kashmir,2-Wheelers,147,4868
+01-Feb-23,Jharkhand,2-Wheelers,652,31633
+01-Feb-23,Karnataka,2-Wheelers,10266,88323
+01-Feb-23,Kerala,2-Wheelers,5558,39985
+01-Feb-23,Madhya Pradesh,2-Wheelers,2358,75150
+01-Feb-23,Maharashtra,2-Wheelers,12070,129508
+01-Feb-23,Manipur,2-Wheelers,14,2990
+01-Feb-23,Meghalaya,2-Wheelers,2,1192
+01-Feb-23,Mizoram,2-Wheelers,9,1655
+01-Feb-23,Odisha,2-Wheelers,2552,49375
+01-Feb-23,Puducherry,2-Wheelers,177,3354
+01-Feb-23,Punjab,2-Wheelers,609,34555
+01-Feb-23,Rajasthan,2-Wheelers,4662,62207
+01-Feb-23,Tamil Nadu,2-Wheelers,6701,118355
+01-Feb-23,Tripura,2-Wheelers,20,2860
+01-Feb-23,Uttar Pradesh,2-Wheelers,1968,190812
+01-Feb-23,Uttarakhand,2-Wheelers,426,11079
+01-Feb-23,West Bengal,2-Wheelers,814,67188
+01-Mar-23,Andhra Pradesh,2-Wheelers,3515,54298
+01-Mar-23,Assam,2-Wheelers,221,41575
+01-Mar-23,Bihar,2-Wheelers,1302,92334
+01-Mar-23,Chandigarh,2-Wheelers,362,663
+01-Mar-23,Chhattisgarh,2-Wheelers,2188,33362
+01-Mar-23,DNH and DD,2-Wheelers,5,902
+01-Mar-23,Delhi,2-Wheelers,3782,30396
+01-Mar-23,Goa,2-Wheelers,837,5064
+01-Mar-23,Gujarat,2-Wheelers,7790,92417
+01-Mar-23,Haryana,2-Wheelers,714,33171
+01-Mar-23,Himachal Pradesh,2-Wheelers,91,4543
+01-Mar-23,Jammu and Kashmir,2-Wheelers,198,7789
+01-Mar-23,Jharkhand,2-Wheelers,797,39001
+01-Mar-23,Karnataka,2-Wheelers,13056,104953
+01-Mar-23,Kerala,2-Wheelers,6773,50705
+01-Mar-23,Madhya Pradesh,2-Wheelers,3213,100653
+01-Mar-23,Maharashtra,2-Wheelers,17077,154632
+01-Mar-23,Manipur,2-Wheelers,3,3985
+01-Mar-23,Mizoram,2-Wheelers,10,1615
+01-Mar-23,Odisha,2-Wheelers,3269,52642
+01-Mar-23,Puducherry,2-Wheelers,261,3608
+01-Mar-23,Punjab,2-Wheelers,805,36806
+01-Mar-23,Rajasthan,2-Wheelers,6375,85324
+01-Mar-23,Tamil Nadu,2-Wheelers,8388,119376
+01-Mar-23,Tripura,2-Wheelers,23,3016
+01-Mar-23,Uttar Pradesh,2-Wheelers,3559,206315
+01-Mar-23,Uttarakhand,2-Wheelers,587,13077
+01-Mar-23,West Bengal,2-Wheelers,1103,73690
+01-Apr-23,Andhra Pradesh,2-Wheelers,3515,48046
+01-Apr-23,Assam,2-Wheelers,178,35047
+01-Apr-23,Bihar,2-Wheelers,971,84319
+01-Apr-23,Chandigarh,2-Wheelers,126,2085
+01-Apr-23,Chhattisgarh,2-Wheelers,1559,27613
+01-Apr-23,DNH and DD,2-Wheelers,5,666
+01-Apr-23,Delhi,2-Wheelers,2738,28590
+01-Apr-23,Goa,2-Wheelers,698,3609
+01-Apr-23,Gujarat,2-Wheelers,8266,89782
+01-Apr-23,Haryana,2-Wheelers,802,34168
+01-Apr-23,Himachal Pradesh,2-Wheelers,96,4847
+01-Apr-23,Jammu and Kashmir,2-Wheelers,212,6299
+01-Apr-23,Jharkhand,2-Wheelers,682,36353
+01-Apr-23,Karnataka,2-Wheelers,9711,91491
+01-Apr-23,Kerala,2-Wheelers,4659,32903
+01-Apr-23,Madhya Pradesh,2-Wheelers,1958,64877
+01-Apr-23,Maharashtra,2-Wheelers,12260,130977
+01-Apr-23,Manipur,2-Wheelers,15,3425
+01-Apr-23,Meghalaya,2-Wheelers,3,1501
+01-Apr-23,Mizoram,2-Wheelers,8,1565
+01-Apr-23,Odisha,2-Wheelers,2848,43956
+01-Apr-23,Puducherry,2-Wheelers,157,3076
+01-Apr-23,Punjab,2-Wheelers,376,28269
+01-Apr-23,Rajasthan,2-Wheelers,3914,67999
+01-Apr-23,Tamil Nadu,2-Wheelers,6509,94801
+01-Apr-23,Tripura,2-Wheelers,19,2450
+01-Apr-23,Uttar Pradesh,2-Wheelers,3087,195568
+01-Apr-23,Uttarakhand,2-Wheelers,524,12580
+01-Apr-23,West Bengal,2-Wheelers,918,54194
+01-May-23,Andhra Pradesh,2-Wheelers,4370,54545
+01-May-23,Assam,2-Wheelers,282,35939
+01-May-23,Bihar,2-Wheelers,1536,125465
+01-May-23,Chandigarh,2-Wheelers,209,2356
+01-May-23,Chhattisgarh,2-Wheelers,2514,29232
+01-May-23,DNH and DD,2-Wheelers,4,829
+01-May-23,Delhi,2-Wheelers,4977,32282
+01-May-23,Goa,2-Wheelers,863,3933
+01-May-23,Gujarat,2-Wheelers,9609,87169
+01-May-23,Haryana,2-Wheelers,1053,34399
+01-May-23,Himachal Pradesh,2-Wheelers,118,5278
+01-May-23,Jammu and Kashmir,2-Wheelers,258,9084
+01-May-23,Jharkhand,2-Wheelers,839,41796
+01-May-23,Karnataka,2-Wheelers,17292,97074
+01-May-23,Kerala,2-Wheelers,7386,41347
+01-May-23,Ladakh,2-Wheelers,14,161
+01-May-23,Madhya Pradesh,2-Wheelers,3940,97067
+01-May-23,Maharashtra,2-Wheelers,20585,126680
+01-May-23,Manipur,2-Wheelers,10,572
+01-May-23,Meghalaya,2-Wheelers,7,2006
+01-May-23,Mizoram,2-Wheelers,14,1626
+01-May-23,Odisha,2-Wheelers,3727,44563
+01-May-23,Puducherry,2-Wheelers,382,3736
+01-May-23,Punjab,2-Wheelers,1181,32433
+01-May-23,Rajasthan,2-Wheelers,6897,79573
+01-May-23,Tamil Nadu,2-Wheelers,10330,109325
+01-May-23,Tripura,2-Wheelers,65,3305
+01-May-23,Uttar Pradesh,2-Wheelers,4704,300079
+01-May-23,Uttarakhand,2-Wheelers,682,14779
+01-May-23,West Bengal,2-Wheelers,1508,77494
+01-Jun-23,Andhra Pradesh,2-Wheelers,1004,45618
+01-Jun-23,Assam,2-Wheelers,177,31855
+01-Jun-23,Bihar,2-Wheelers,520,90944
+01-Jun-23,Chandigarh,2-Wheelers,135,2638
+01-Jun-23,Chhattisgarh,2-Wheelers,1245,30378
+01-Jun-23,DNH and DD,2-Wheelers,5,765
+01-Jun-23,Delhi,2-Wheelers,1787,28279
+01-Jun-23,Goa,2-Wheelers,531,3485
+01-Jun-23,Gujarat,2-Wheelers,4019,80898
+01-Jun-23,Haryana,2-Wheelers,408,33317
+01-Jun-23,Himachal Pradesh,2-Wheelers,59,5397
+01-Jun-23,Jammu and Kashmir,2-Wheelers,166,7915
+01-Jun-23,Jharkhand,2-Wheelers,390,36415
+01-Jun-23,Karnataka,2-Wheelers,7730,101825
+01-Jun-23,Kerala,2-Wheelers,4020,38025
+01-Jun-23,Ladakh,2-Wheelers,2,208
+01-Jun-23,Madhya Pradesh,2-Wheelers,1671,78536
+01-Jun-23,Maharashtra,2-Wheelers,8451,119809
+01-Jun-23,Manipur,2-Wheelers,4,270
+01-Jun-23,Mizoram,2-Wheelers,4,1795
+01-Jun-23,Odisha,2-Wheelers,2131,43202
+01-Jun-23,Puducherry,2-Wheelers,140,3591
+01-Jun-23,Punjab,2-Wheelers,534,30214
+01-Jun-23,Rajasthan,2-Wheelers,3261,69235
+01-Jun-23,Tamil Nadu,2-Wheelers,4720,121451
+01-Jun-23,Tripura,2-Wheelers,8,2709
+01-Jun-23,Uttar Pradesh,2-Wheelers,1932,219233
+01-Jun-23,Uttarakhand,2-Wheelers,324,13374
+01-Jun-23,West Bengal,2-Wheelers,462,64854
+01-Jul-23,Andhra Pradesh,2-Wheelers,1361,50877
+01-Jul-23,Assam,2-Wheelers,168,32074
+01-Jul-23,Bihar,2-Wheelers,614,69583
+01-Jul-23,Chandigarh,2-Wheelers,134,1813
+01-Jul-23,Chhattisgarh,2-Wheelers,1584,28753
+01-Jul-23,DNH and DD,2-Wheelers,5,856
+01-Jul-23,Delhi,2-Wheelers,2068,31269
+01-Jul-23,Goa,2-Wheelers,517,2877
+01-Jul-23,Gujarat,2-Wheelers,5300,98394
+01-Jul-23,Haryana,2-Wheelers,152,15523
+01-Jul-23,Himachal Pradesh,2-Wheelers,40,5450
+01-Jul-23,Jammu and Kashmir,2-Wheelers,116,8604
+01-Jul-23,Jharkhand,2-Wheelers,447,32370
+01-Jul-23,Karnataka,2-Wheelers,9632,95036
+01-Jul-23,Kerala,2-Wheelers,3937,34948
+01-Jul-23,Madhya Pradesh,2-Wheelers,1971,69937
+01-Jul-23,Maharashtra,2-Wheelers,9822,126943
+01-Jul-23,Manipur,2-Wheelers,6,1145
+01-Jul-23,Meghalaya,2-Wheelers,20,2030
+01-Jul-23,Mizoram,2-Wheelers,6,1721
+01-Jul-23,Odisha,2-Wheelers,2805,38394
+01-Jul-23,Puducherry,2-Wheelers,189,3909
+01-Jul-23,Punjab,2-Wheelers,445,33588
+01-Jul-23,Rajasthan,2-Wheelers,3763,76511
+01-Jul-23,Tamil Nadu,2-Wheelers,5839,119322
+01-Jul-23,Tripura,2-Wheelers,6,2942
+01-Jul-23,Uttar Pradesh,2-Wheelers,2326,158970
+01-Jul-23,Uttarakhand,2-Wheelers,408,13216
+01-Jul-23,West Bengal,2-Wheelers,509,67367
+01-Aug-23,Andhra Pradesh,2-Wheelers,1568,56399
+01-Aug-23,Assam,2-Wheelers,147,31641
+01-Aug-23,Bihar,2-Wheelers,713,58346
+01-Aug-23,Chandigarh,2-Wheelers,125,1789
+01-Aug-23,Chhattisgarh,2-Wheelers,2088,28699
+01-Aug-23,DNH and DD,2-Wheelers,6,606
+01-Aug-23,Delhi,2-Wheelers,2116,33120
+01-Aug-23,Goa,2-Wheelers,689,4098
+01-Aug-23,Gujarat,2-Wheelers,5755,87134
+01-Aug-23,Haryana,2-Wheelers,399,38102
+01-Aug-23,Himachal Pradesh,2-Wheelers,64,5345
+01-Aug-23,Jammu and Kashmir,2-Wheelers,98,8650
+01-Aug-23,Jharkhand,2-Wheelers,455,27909
+01-Aug-23,Karnataka,2-Wheelers,9720,101545
+01-Aug-23,Kerala,2-Wheelers,4798,49548
+01-Aug-23,Madhya Pradesh,2-Wheelers,3907,73963
+01-Aug-23,Maharashtra,2-Wheelers,12043,133378
+01-Aug-23,Manipur,2-Wheelers,8,846
+01-Aug-23,Meghalaya,2-Wheelers,15,2060
+01-Aug-23,Mizoram,2-Wheelers,4,1908
+01-Aug-23,Odisha,2-Wheelers,2737,36033
+01-Aug-23,Puducherry,2-Wheelers,197,4141
+01-Aug-23,Punjab,2-Wheelers,642,34784
+01-Aug-23,Rajasthan,2-Wheelers,4313,76171
+01-Aug-23,Tamil Nadu,2-Wheelers,6246,128997
+01-Aug-23,Tripura,2-Wheelers,33,3154
+01-Aug-23,Uttar Pradesh,2-Wheelers,2710,146984
+01-Aug-23,Uttarakhand,2-Wheelers,364,12790
+01-Aug-23,West Bengal,2-Wheelers,511,64154
+01-Sep-23,Andhra Pradesh,2-Wheelers,1388,53014
+01-Sep-23,Assam,2-Wheelers,257,32936
+01-Sep-23,Bihar,2-Wheelers,900,65102
+01-Sep-23,Chandigarh,2-Wheelers,134,1868
+01-Sep-23,Chhattisgarh,2-Wheelers,2178,30725
+01-Sep-23,DNH and DD,2-Wheelers,12,732
+01-Sep-23,Delhi,2-Wheelers,2002,31468
+01-Sep-23,Goa,2-Wheelers,560,5539
+01-Sep-23,Gujarat,2-Wheelers,7209,129851
+01-Sep-23,Haryana,2-Wheelers,321,44459
+01-Sep-23,Himachal Pradesh,2-Wheelers,68,5403
+01-Sep-23,Jammu and Kashmir,2-Wheelers,113,8372
+01-Sep-23,Jharkhand,2-Wheelers,524,31209
+01-Sep-23,Karnataka,2-Wheelers,10590,106981
+01-Sep-23,Kerala,2-Wheelers,4461,48967
+01-Sep-23,Madhya Pradesh,2-Wheelers,3283,74064
+01-Sep-23,Maharashtra,2-Wheelers,12444,134556
+01-Sep-23,Meghalaya,2-Wheelers,11,1991
+01-Sep-23,Mizoram,2-Wheelers,6,1561
+01-Sep-23,Odisha,2-Wheelers,3049,45630
+01-Sep-23,Puducherry,2-Wheelers,136,3350
+01-Sep-23,Punjab,2-Wheelers,676,35832
+01-Sep-23,Rajasthan,2-Wheelers,4336,81056
+01-Sep-23,Tamil Nadu,2-Wheelers,5178,116071
+01-Sep-23,Tripura,2-Wheelers,17,3157
+01-Sep-23,Uttar Pradesh,2-Wheelers,3141,143067
+01-Sep-23,Uttarakhand,2-Wheelers,262,12642
+01-Sep-23,West Bengal,2-Wheelers,489,58361
+01-Oct-23,Andhra Pradesh,2-Wheelers,1757,66154
+01-Oct-23,Assam,2-Wheelers,245,51372
+01-Oct-23,Bihar,2-Wheelers,820,65088
+01-Oct-23,Chandigarh,2-Wheelers,157,1964
+01-Oct-23,Chhattisgarh,2-Wheelers,2195,38600
+01-Oct-23,DNH and DD,2-Wheelers,4,1109
+01-Oct-23,Delhi,2-Wheelers,2611,35861
+01-Oct-23,Goa,2-Wheelers,567,5377
+01-Oct-23,Gujarat,2-Wheelers,8417,149414
+01-Oct-23,Haryana,2-Wheelers,591,37096
+01-Oct-23,Himachal Pradesh,2-Wheelers,53,4480
+01-Oct-23,Jammu and Kashmir,2-Wheelers,137,6736
+01-Oct-23,Jharkhand,2-Wheelers,502,33632
+01-Oct-23,Karnataka,2-Wheelers,11137,108712
+01-Oct-23,Kerala,2-Wheelers,5051,36841
+01-Oct-23,Madhya Pradesh,2-Wheelers,3262,99036
+01-Oct-23,Maharashtra,2-Wheelers,15716,167065
+01-Oct-23,Manipur,2-Wheelers,6,1035
+01-Oct-23,Mizoram,2-Wheelers,36,1958
+01-Oct-23,Odisha,2-Wheelers,3972,71596
+01-Oct-23,Puducherry,2-Wheelers,197,3765
+01-Oct-23,Punjab,2-Wheelers,760,34028
+01-Oct-23,Rajasthan,2-Wheelers,4906,103647
+01-Oct-23,Tamil Nadu,2-Wheelers,6507,131658
+01-Oct-23,Tripura,2-Wheelers,6,4285
+01-Oct-23,Uttar Pradesh,2-Wheelers,3775,162993
+01-Oct-23,Uttarakhand,2-Wheelers,383,13890
+01-Oct-23,West Bengal,2-Wheelers,851,65489
+01-Nov-23,Andaman & Nicobar Island,2-Wheelers,3,598
+01-Nov-23,Andhra Pradesh,2-Wheelers,1997,79246
+01-Nov-23,Assam,2-Wheelers,244,41326
+01-Nov-23,Bihar,2-Wheelers,1765,149828
+01-Nov-23,Chandigarh,2-Wheelers,241,2430
+01-Nov-23,Chhattisgarh,2-Wheelers,3880,76276
+01-Nov-23,DNH and DD,2-Wheelers,15,1185
+01-Nov-23,Delhi,2-Wheelers,3976,56736
+01-Nov-23,Goa,2-Wheelers,977,6217
+01-Nov-23,Gujarat,2-Wheelers,5424,152556
+01-Nov-23,Haryana,2-Wheelers,565,42364
+01-Nov-23,Himachal Pradesh,2-Wheelers,53,6131
+01-Nov-23,Jammu and Kashmir,2-Wheelers,172,8743
+01-Nov-23,Jharkhand,2-Wheelers,825,63696
+01-Nov-23,Karnataka,2-Wheelers,14300,136535
+01-Nov-23,Kerala,2-Wheelers,5352,36822
+01-Nov-23,Madhya Pradesh,2-Wheelers,4861,204532
+01-Nov-23,Maharashtra,2-Wheelers,19008,230768
+01-Nov-23,Manipur,2-Wheelers,10,812
+01-Nov-23,Meghalaya,2-Wheelers,6,1893
+01-Nov-23,Mizoram,2-Wheelers,35,1977
+01-Nov-23,Odisha,2-Wheelers,4345,63423
+01-Nov-23,Puducherry,2-Wheelers,194,3681
+01-Nov-23,Punjab,2-Wheelers,1184,48694
+01-Nov-23,Rajasthan,2-Wheelers,7743,191722
+01-Nov-23,Tamil Nadu,2-Wheelers,7096,121926
+01-Nov-23,Tripura,2-Wheelers,11,4893
+01-Nov-23,Uttar Pradesh,2-Wheelers,5327,387983
+01-Nov-23,Uttarakhand,2-Wheelers,626,24522
+01-Nov-23,West Bengal,2-Wheelers,1007,97240
+01-Dec-23,Andaman & Nicobar Island,2-Wheelers,7,430
+01-Dec-23,Andhra Pradesh,2-Wheelers,2372,60868
+01-Dec-23,Arunachal Pradesh,2-Wheelers,2,1377
+01-Dec-23,Assam,2-Wheelers,204,38490
+01-Dec-23,Bihar,2-Wheelers,1354,91064
+01-Dec-23,Chandigarh,2-Wheelers,137,1162
+01-Dec-23,Chhattisgarh,2-Wheelers,1865,31773
+01-Dec-23,DNH and DD,2-Wheelers,13,1447
+01-Dec-23,Delhi,2-Wheelers,5380,27097
+01-Dec-23,Goa,2-Wheelers,799,4299
+01-Dec-23,Gujarat,2-Wheelers,4080,85848
+01-Dec-23,Haryana,2-Wheelers,1019,60574
+01-Dec-23,Himachal Pradesh,2-Wheelers,102,9988
+01-Dec-23,Jammu and Kashmir,2-Wheelers,96,3661
+01-Dec-23,Jharkhand,2-Wheelers,632,32673
+01-Dec-23,Karnataka,2-Wheelers,10237,91996
+01-Dec-23,Kerala,2-Wheelers,4866,35712
+01-Dec-23,Madhya Pradesh,2-Wheelers,3359,88017
+01-Dec-23,Maharashtra,2-Wheelers,14495,174125
+01-Dec-23,Manipur,2-Wheelers,6,976
+01-Dec-23,Mizoram,2-Wheelers,24,1974
+01-Dec-23,Odisha,2-Wheelers,4383,48402
+01-Dec-23,Puducherry,2-Wheelers,224,2836
+01-Dec-23,Punjab,2-Wheelers,951,45523
+01-Dec-23,Rajasthan,2-Wheelers,4676,99479
+01-Dec-23,Tamil Nadu,2-Wheelers,5403,82736
+01-Dec-23,Tripura,2-Wheelers,40,3663
+01-Dec-23,Uttar Pradesh,2-Wheelers,5487,211546
+01-Dec-23,Uttarakhand,2-Wheelers,655,19337
+01-Dec-23,West Bengal,2-Wheelers,2625,90092
+01-Jan-24,Uttar Pradesh,2-Wheelers,5668,181667
+01-Jan-24,Maharashtra,2-Wheelers,16367,172830
+01-Jan-24,Karnataka,2-Wheelers,12415,115920
+01-Jan-24,Tamil Nadu,2-Wheelers,7580,153753
+01-Jan-24,Bihar,2-Wheelers,1288,71556
+01-Jan-24,Kerala,2-Wheelers,6457,42509
+01-Jan-24,Rajasthan,2-Wheelers,4432,78862
+01-Jan-24,Delhi,2-Wheelers,3073,38413
+01-Jan-24,Madhya Pradesh,2-Wheelers,3684,92100
+01-Jan-24,Gujarat,2-Wheelers,5424,91933
+01-Jan-24,Odisha,2-Wheelers,3883,53485
+01-Jan-24,Assam,2-Wheelers,253,44386
+01-Jan-24,Haryana,2-Wheelers,1259,42824
+01-Jan-24,Chhattisgarh,2-Wheelers,2367,42881
+01-Jan-24,West Bengal,2-Wheelers,1636,72390
+01-Jan-24,Punjab,2-Wheelers,821,33511
+01-Jan-24,Andhra Pradesh,2-Wheelers,2134,53619
+01-Jan-24,Jharkhand,2-Wheelers,551,30612
+01-Jan-24,Uttarakhand,2-Wheelers,382,11682
+01-Jan-24,Jammu and Kashmir,2-Wheelers,219,4582
+01-Jan-24,Goa,2-Wheelers,832,5079
+01-Jan-24,Chandigarh,2-Wheelers,118,1450
+01-Jan-24,Tripura,2-Wheelers,3,3000
+01-Jan-24,Puducherry,2-Wheelers,310,5141
+01-Jan-24,Himachal Pradesh,2-Wheelers,79,6031
+01-Jan-24,DNH and DD,2-Wheelers,31,866
+01-Jan-24,Manipur,2-Wheelers,7,1556
+01-Jan-24,Mizoram,2-Wheelers,28,1872
+01-Jan-24,Meghalaya,2-Wheelers,26,1625
+01-Jan-24,Ladakh,2-Wheelers,14,37
+01-Jan-24,Andaman & Nicobar,2-Wheelers,2,483
+01-Feb-24,Uttar Pradesh,2-Wheelers,6557,206846
+01-Feb-24,Maharashtra,2-Wheelers,15193,147649
+01-Feb-24,Karnataka,2-Wheelers,12605,108852
+01-Feb-24,Tamil Nadu,2-Wheelers,8647,143638
+01-Feb-24,Rajasthan,2-Wheelers,5145,81152
+01-Feb-24,Bihar,2-Wheelers,1301,83398
+01-Feb-24,Madhya Pradesh,2-Wheelers,4006,87659
+01-Feb-24,Kerala,2-Wheelers,5389,38356
+01-Feb-24,Gujarat,2-Wheelers,5103,88441
+01-Feb-24,Delhi,2-Wheelers,2364,30504
+01-Feb-24,Assam,2-Wheelers,246,39048
+01-Feb-24,Odisha,2-Wheelers,3733,57255
+01-Feb-24,Chhattisgarh,2-Wheelers,2198,40110
+01-Feb-24,Punjab,2-Wheelers,1017,34359
+01-Feb-24,Andhra Pradesh,2-Wheelers,2830,56600
+01-Feb-24,Haryana,2-Wheelers,1075,38121
+01-Feb-24,West Bengal,2-Wheelers,1341,74089
+01-Feb-24,Jharkhand,2-Wheelers,710,34467
+01-Feb-24,Uttarakhand,2-Wheelers,586,13692
+01-Feb-24,Jammu and Kashmir,2-Wheelers,233,5055
+01-Feb-24,Goa,2-Wheelers,990,4759
+01-Feb-24,Tripura,2-Wheelers,24,3334
+01-Feb-24,Chandigarh,2-Wheelers,126,1416
+01-Feb-24,Puducherry,2-Wheelers,384,4556
+01-Feb-24,Himachal Pradesh,2-Wheelers,66,4926
+01-Feb-24,Mizoram,2-Wheelers,51,2146
+01-Feb-24,Manipur,2-Wheelers,3,1723
+01-Feb-24,DNH and DD,2-Wheelers,24,1052
+01-Feb-24,Meghalaya,2-Wheelers,11,1890
+01-Feb-24,Andaman & Nicobar Island,2-Wheelers,5,473
+01-Mar-24,Maharashtra,2-Wheelers,26668,152563
+01-Mar-24,Uttar Pradesh,2-Wheelers,7799,210216
+01-Mar-24,Karnataka,2-Wheelers,22742,123800
+01-Mar-24,Tamil Nadu,2-Wheelers,13350,124071
+01-Mar-24,Rajasthan,2-Wheelers,7933,89538
+01-Mar-24,Delhi,2-Wheelers,5002,31599
+01-Mar-24,Kerala,2-Wheelers,8393,42909
+01-Mar-24,Gujarat,2-Wheelers,8496,94822
+01-Mar-24,Bihar,2-Wheelers,2584,102949
+01-Mar-24,Madhya Pradesh,2-Wheelers,5772,95405
+01-Mar-24,Andhra Pradesh,2-Wheelers,7057,69119
+01-Mar-24,Assam,2-Wheelers,767,42612
+01-Mar-24,Chhattisgarh,2-Wheelers,3610,46046
+01-Mar-24,Punjab,2-Wheelers,1514,35877
+01-Mar-24,West Bengal,2-Wheelers,2159,69871
+01-Mar-24,Haryana,2-Wheelers,1387,41778
+01-Mar-24,Jharkhand,2-Wheelers,824,38149
+01-Mar-24,Goa,2-Wheelers,1745,5018
+01-Mar-24,Uttarakhand,2-Wheelers,579,12506
+01-Mar-24,Jammu and Kashmir,2-Wheelers,297,6600
+01-Mar-24,Tripura,2-Wheelers,41,3728
+01-Mar-24,Chandigarh,2-Wheelers,215,1525
+01-Mar-24,Puducherry,2-Wheelers,477,4337
+01-Mar-24,Meghalaya,2-Wheelers,4,2223
+01-Mar-24,Himachal Pradesh,2-Wheelers,90,4737
+01-Mar-24,Mizoram,2-Wheelers,58,1932
+01-Mar-24,DNH and DD,2-Wheelers,25,780
+01-Mar-24,Manipur,2-Wheelers,13,1394
+01-Mar-24,Andaman & Nicobar Island,2-Wheelers,2,447
+01-Mar-24,Nagaland,2-Wheelers,2,1180
